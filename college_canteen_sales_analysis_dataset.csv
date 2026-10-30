@@ -1,0 +1,1501 @@
+﻿Order_ID,Date,Time,Item_Name,Category,Quantity,Unit_Price_INR,Total_Amount_INR,Payment_Mode,Day_of_Week
+ORD01490,2026-01-01,09:10,Cheese Burger,Fast Food,2,80,160,UPI,Thursday
+ORD00664,2026-01-01,14:10,Cheese Burger,Fast Food,1,85,85,Cash,Thursday
+ORD00992,2026-01-02,13:50,Veg Burger,Fast Food,1,70,70,UPI,Friday
+ORD00298,2026-01-02,16:20,Cheese Maggi,Fast Food,1,75,75,UPI,Friday
+ORD01406,2026-01-02,18:10,Aloo Paratha,Meals,1,60,60,UPI,Friday
+ORD01306,2026-01-03,12:55,Veg Momos,Snacks,1,45,45,UPI,Saturday
+ORD01070,2026-01-03,13:15,Coffee,Beverages,1,25,25,Cash,Saturday
+ORD00362,2026-01-03,15:15,French Fries,Snacks,2,75,150,UPI,Saturday
+ORD01454,2026-01-03,17:00,French Fries,Snacks,1,80,80,UPI,Saturday
+ORD01448,2026-01-03,17:20,Veg Sandwich,Snacks,1,50,50,UPI,Saturday
+ORD01106,2026-01-03,17:50,Veg Momos,Snacks,2,60,120,Cash,Saturday
+ORD00337,2026-01-03,18:35,Masala Maggi,Fast Food,1,50,50,UPI,Saturday
+ORD01057,2026-01-04,11:35,Cheese Burger,Fast Food,1,90,90,Cash,Sunday
+ORD01139,2026-01-04,12:05,Cheese Burger,Fast Food,1,90,90,UPI,Sunday
+ORD01229,2026-01-04,15:00,Veg Sandwich,Snacks,1,35,35,Card,Sunday
+ORD00614,2026-01-04,15:05,Veg Fried Rice,Meals,1,85,85,UPI,Sunday
+ORD00641,2026-01-05,08:15,Masala Maggi,Fast Food,1,40,40,UPI,Monday
+ORD00390,2026-01-05,08:25,Coffee,Beverages,1,35,35,UPI,Monday
+ORD00564,2026-01-05,10:25,Cheese Maggi,Fast Food,2,75,150,UPI,Monday
+ORD01109,2026-01-05,10:25,Cold Drink,Beverages,1,40,40,Cash,Monday
+ORD00046,2026-01-05,10:55,Mineral Water,Beverages,2,15,30,UPI,Monday
+ORD00487,2026-01-05,14:10,Plain Dosa,Meals,2,80,160,UPI,Monday
+ORD01163,2026-01-05,14:50,Coffee,Beverages,1,30,30,UPI,Monday
+ORD00393,2026-01-05,15:10,Cheese Maggi,Fast Food,1,60,60,UPI,Monday
+ORD00832,2026-01-05,16:00,Masala Maggi,Fast Food,1,60,60,UPI,Monday
+ORD00135,2026-01-05,17:35,Mineral Water,Beverages,1,15,15,Card,Monday
+ORD01170,2026-01-06,11:30,Masala Maggi,Fast Food,1,40,40,UPI,Tuesday
+ORD00091,2026-01-06,14:15,Bread Pakora,Snacks,1,30,30,UPI,Tuesday
+ORD00577,2026-01-06,14:40,Veg Sandwich,Snacks,1,35,35,UPI,Tuesday
+ORD01185,2026-01-06,15:10,Cheese Maggi,Fast Food,1,60,60,UPI,Tuesday
+ORD01060,2026-01-06,15:40,Cold Drink,Beverages,1,25,25,UPI,Tuesday
+ORD01423,2026-01-06,15:45,Cheese Sandwich,Snacks,1,70,70,Card,Tuesday
+ORD01336,2026-01-06,16:15,Chai,Beverages,1,15,15,Card,Tuesday
+ORD01368,2026-01-07,11:10,Samosa,Snacks,1,25,25,Cash,Wednesday
+ORD01366,2026-01-07,14:30,Cheese Sandwich,Snacks,1,55,55,UPI,Wednesday
+ORD00527,2026-01-07,15:50,Veg Fried Rice,Meals,1,95,95,UPI,Wednesday
+ORD01344,2026-01-07,16:50,Cold Drink,Beverages,1,30,30,UPI,Wednesday
+ORD01385,2026-01-08,10:20,Chole Kulche,Meals,2,80,160,UPI,Thursday
+ORD00821,2026-01-08,16:45,Veg Momos,Snacks,2,60,120,Cash,Thursday
+ORD00918,2026-01-09,16:10,Chole Kulche,Meals,1,55,55,Cash,Friday
+ORD00265,2026-01-10,13:30,Cheese Sandwich,Snacks,1,55,55,Card,Saturday
+ORD00852,2026-01-10,14:45,Samosa,Snacks,1,25,25,Cash,Saturday
+ORD01184,2026-01-10,15:10,Veg Burger,Fast Food,2,70,140,Cash,Saturday
+ORD00506,2026-01-10,15:50,Chai,Beverages,1,10,10,UPI,Saturday
+ORD00588,2026-01-10,16:50,Samosa,Snacks,1,25,25,UPI,Saturday
+ORD00604,2026-01-10,17:55,Plain Dosa,Meals,3,70,210,UPI,Saturday
+ORD01310,2026-01-11,10:25,Veg Chowmein,Fast Food,1,80,80,Cash,Sunday
+ORD01481,2026-01-11,10:30,Cold Coffee,Beverages,4,75,300,UPI,Sunday
+ORD00477,2026-01-11,12:20,Veg Burger,Fast Food,1,80,80,UPI,Sunday
+ORD00444,2026-01-11,14:00,Veg Burger,Fast Food,1,70,70,Cash,Sunday
+ORD00073,2026-01-11,16:45,Masala Maggi,Fast Food,3,40,120,UPI,Sunday
+ORD01429,2026-01-12,13:35,Brownie,Desserts,1,40,40,UPI,Monday
+ORD01433,2026-01-12,14:10,Veg Momos,Snacks,1,50,50,UPI,Monday
+ORD00996,2026-01-12,17:50,Aloo Paratha,Meals,2,45,90,Card,Monday
+ORD01398,2026-01-12,18:50,Masala Maggi,Fast Food,1,50,50,UPI,Monday
+ORD00356,2026-01-13,14:20,Masala Maggi,Fast Food,1,40,40,Card,Tuesday
+ORD01119,2026-01-13,18:15,Ice Cream,Desserts,3,45,135,Cash,Tuesday
+ORD00158,2026-01-14,10:25,Chai,Beverages,1,10,10,UPI,Wednesday
+ORD00110,2026-01-14,10:50,Cold Coffee,Beverages,1,70,70,UPI,Wednesday
+ORD01128,2026-01-14,13:25,Veg Thali,Meals,1,95,95,UPI,Wednesday
+ORD00003,2026-01-14,14:55,Plain Dosa,Meals,1,80,80,UPI,Wednesday
+ORD00397,2026-01-14,16:50,Lemon Soda,Beverages,1,30,30,UPI,Wednesday
+ORD00132,2026-01-15,09:00,Veg Burger,Fast Food,1,60,60,UPI,Thursday
+ORD00975,2026-01-15,11:20,Plain Dosa,Meals,1,65,65,UPI,Thursday
+ORD00866,2026-01-15,14:05,Bread Pakora,Snacks,2,20,40,UPI,Thursday
+ORD01466,2026-01-15,14:40,Cheese Maggi,Fast Food,1,65,65,UPI,Thursday
+ORD00442,2026-01-15,15:25,Cold Drink,Beverages,1,30,30,UPI,Thursday
+ORD00771,2026-01-15,16:15,Veg Burger,Fast Food,2,60,120,UPI,Thursday
+ORD00991,2026-01-15,16:50,Plain Dosa,Meals,1,85,85,Cash,Thursday
+ORD00483,2026-01-16,11:35,Veg Thali,Meals,3,100,300,UPI,Friday
+ORD00575,2026-01-16,14:40,Veg Momos,Snacks,2,55,110,Cash,Friday
+ORD00735,2026-01-16,16:30,Brownie,Desserts,1,50,50,Card,Friday
+ORD00438,2026-01-16,17:20,Samosa,Snacks,1,20,20,Cash,Friday
+ORD00080,2026-01-16,18:15,Cold Coffee,Beverages,1,70,70,UPI,Friday
+ORD00729,2026-01-16,18:20,Veg Momos,Snacks,2,50,100,Cash,Friday
+ORD01376,2026-01-17,11:05,Ice Cream,Desserts,1,50,50,UPI,Saturday
+ORD00823,2026-01-17,12:05,Brownie,Desserts,2,60,120,UPI,Saturday
+ORD00674,2026-01-17,12:10,Samosa,Snacks,1,20,20,UPI,Saturday
+ORD00026,2026-01-17,17:05,Veg Chowmein,Fast Food,1,60,60,UPI,Saturday
+ORD00676,2026-01-18,11:55,Chai,Beverages,1,20,20,UPI,Sunday
+ORD00301,2026-01-18,13:50,Idli Sambhar,Meals,1,45,45,UPI,Sunday
+ORD00984,2026-01-18,16:50,Coffee,Beverages,1,20,20,UPI,Sunday
+ORD01440,2026-01-18,18:20,Veg Thali,Meals,1,110,110,Card,Sunday
+ORD01276,2026-01-19,11:20,Cold Coffee,Beverages,3,55,165,UPI,Monday
+ORD00589,2026-01-19,14:40,Mineral Water,Beverages,1,20,20,UPI,Monday
+ORD00511,2026-01-20,12:50,French Fries,Snacks,1,70,70,UPI,Tuesday
+ORD00779,2026-01-20,16:05,Cheese Maggi,Fast Food,2,55,110,Cash,Tuesday
+ORD00609,2026-01-20,17:40,Veg Chowmein,Fast Food,1,50,50,Cash,Tuesday
+ORD01214,2026-01-20,18:05,Masala Maggi,Fast Food,1,60,60,Cash,Tuesday
+ORD00141,2026-01-21,12:35,Samosa,Snacks,2,20,40,UPI,Wednesday
+ORD00745,2026-01-21,14:40,Chai,Beverages,1,10,10,UPI,Wednesday
+ORD00565,2026-01-21,15:25,Masala Maggi,Fast Food,1,40,40,UPI,Wednesday
+ORD00520,2026-01-21,16:25,Coffee,Beverages,1,30,30,UPI,Wednesday
+ORD00846,2026-01-21,18:50,Veg Momos,Snacks,2,55,110,Cash,Wednesday
+ORD00222,2026-01-22,12:20,Veg Chowmein,Fast Food,1,80,80,UPI,Thursday
+ORD00192,2026-01-22,13:45,Plain Dosa,Meals,1,70,70,UPI,Thursday
+ORD00931,2026-01-23,09:50,Samosa,Snacks,2,15,30,Card,Friday
+ORD00722,2026-01-23,11:00,French Fries,Snacks,1,80,80,UPI,Friday
+ORD01081,2026-01-23,13:45,Veg Burger,Fast Food,2,65,130,Cash,Friday
+ORD00353,2026-01-23,14:50,Masala Dosa,Meals,3,95,285,UPI,Friday
+ORD00690,2026-01-23,16:10,Veg Momos,Snacks,1,40,40,UPI,Friday
+ORD00752,2026-01-23,16:25,Chole Kulche,Meals,2,75,150,UPI,Friday
+ORD00521,2026-01-24,08:10,Masala Dosa,Meals,1,85,85,Card,Saturday
+ORD01031,2026-01-24,10:55,Veg Burger,Fast Food,2,70,140,UPI,Saturday
+ORD00856,2026-01-24,15:25,Samosa,Snacks,1,20,20,Cash,Saturday
+ORD01236,2026-01-24,18:55,Veg Burger,Fast Food,1,65,65,Cash,Saturday
+ORD00385,2026-01-25,09:50,Chai,Beverages,1,15,15,UPI,Sunday
+ORD01286,2026-01-25,11:30,Veg Momos,Snacks,1,60,60,UPI,Sunday
+ORD00920,2026-01-25,11:40,Aloo Paratha,Meals,1,40,40,UPI,Sunday
+ORD01377,2026-01-25,12:20,Samosa,Snacks,2,20,40,UPI,Sunday
+ORD00454,2026-01-25,12:55,Masala Maggi,Fast Food,2,45,90,UPI,Sunday
+ORD01451,2026-01-25,12:55,Ice Cream,Desserts,2,45,90,UPI,Sunday
+ORD00512,2026-01-25,15:50,Cold Coffee,Beverages,1,50,50,UPI,Sunday
+ORD00015,2026-01-25,17:10,Aloo Paratha,Meals,1,55,55,UPI,Sunday
+ORD00788,2026-01-26,10:00,Bread Pakora,Snacks,1,25,25,UPI,Monday
+ORD01470,2026-01-26,15:05,Veg Momos,Snacks,2,40,80,UPI,Monday
+ORD00035,2026-01-26,15:40,Mineral Water,Beverages,1,15,15,UPI,Monday
+ORD01053,2026-01-26,17:35,Coffee,Beverages,3,20,60,Cash,Monday
+ORD00139,2026-01-26,17:55,Veg Chowmein,Fast Food,2,60,120,UPI,Monday
+ORD00620,2026-01-27,10:50,Samosa,Snacks,2,15,30,UPI,Tuesday
+ORD00100,2026-01-27,11:35,Veg Sandwich,Snacks,1,35,35,UPI,Tuesday
+ORD00414,2026-01-27,11:40,Ice Cream,Desserts,1,45,45,UPI,Tuesday
+ORD00388,2026-01-27,12:20,Chai,Beverages,1,10,10,UPI,Tuesday
+ORD00819,2026-01-27,15:20,Coffee,Beverages,1,20,20,UPI,Tuesday
+ORD01116,2026-01-27,16:25,Cheese Maggi,Fast Food,1,70,70,Cash,Tuesday
+ORD00560,2026-01-27,16:50,Aloo Paratha,Meals,1,50,50,UPI,Tuesday
+ORD00079,2026-01-27,18:25,Veg Momos,Snacks,2,40,80,Cash,Tuesday
+ORD00530,2026-01-28,08:10,Veg Chowmein,Fast Food,2,65,130,Cash,Wednesday
+ORD00101,2026-01-28,10:45,Cold Drink,Beverages,4,25,100,UPI,Wednesday
+ORD01134,2026-01-28,13:15,Ice Cream,Desserts,2,35,70,UPI,Wednesday
+ORD00580,2026-01-28,16:40,Cheese Maggi,Fast Food,1,75,75,Cash,Wednesday
+ORD00369,2026-01-28,17:00,Veg Chowmein,Fast Food,2,55,110,Card,Wednesday
+ORD00551,2026-01-29,11:10,Ice Cream,Desserts,1,40,40,UPI,Thursday
+ORD00480,2026-01-29,14:10,Bread Pakora,Snacks,1,30,30,UPI,Thursday
+ORD00440,2026-01-29,16:15,Chole Kulche,Meals,1,80,80,Card,Thursday
+ORD00503,2026-01-30,08:20,Veg Momos,Snacks,1,45,45,UPI,Friday
+ORD01216,2026-01-30,15:30,Chai,Beverages,1,10,10,Card,Friday
+ORD00682,2026-01-31,09:50,Cheese Sandwich,Snacks,2,70,140,UPI,Saturday
+ORD00838,2026-01-31,11:20,Veg Momos,Snacks,1,40,40,UPI,Saturday
+ORD00379,2026-01-31,18:50,Veg Sandwich,Snacks,1,40,40,Cash,Saturday
+ORD00193,2026-02-01,13:25,Ice Cream,Desserts,1,30,30,UPI,Sunday
+ORD00266,2026-02-01,15:40,Veg Momos,Snacks,4,50,200,UPI,Sunday
+ORD00594,2026-02-02,11:15,Samosa,Snacks,1,15,15,Cash,Monday
+ORD00491,2026-02-02,12:20,Plain Dosa,Meals,1,90,90,Cash,Monday
+ORD01269,2026-02-02,14:45,Veg Fried Rice,Meals,2,100,200,UPI,Monday
+ORD00972,2026-02-02,15:30,French Fries,Snacks,1,60,60,UPI,Monday
+ORD00688,2026-02-02,15:40,Coffee,Beverages,1,25,25,UPI,Monday
+ORD00012,2026-02-03,11:45,Lemon Soda,Beverages,1,35,35,UPI,Tuesday
+ORD01444,2026-02-03,12:45,Veg Momos,Snacks,1,45,45,UPI,Tuesday
+ORD01124,2026-02-03,16:00,Mineral Water,Beverages,1,20,20,UPI,Tuesday
+ORD00959,2026-02-03,17:05,Veg Burger,Fast Food,1,50,50,UPI,Tuesday
+ORD00230,2026-02-04,11:50,Masala Maggi,Fast Food,3,55,165,UPI,Wednesday
+ORD00948,2026-02-04,14:00,Ice Cream,Desserts,1,45,45,UPI,Wednesday
+ORD00734,2026-02-04,14:55,Veg Sandwich,Snacks,2,45,90,UPI,Wednesday
+ORD01129,2026-02-04,15:15,Mineral Water,Beverages,1,15,15,UPI,Wednesday
+ORD00762,2026-02-04,16:40,Bread Pakora,Snacks,1,25,25,Cash,Wednesday
+ORD01399,2026-02-05,11:05,Veg Burger,Fast Food,1,75,75,UPI,Thursday
+ORD01464,2026-02-05,11:10,Masala Dosa,Meals,1,110,110,UPI,Thursday
+ORD00607,2026-02-05,11:30,Veg Sandwich,Snacks,1,35,35,Cash,Thursday
+ORD00130,2026-02-05,11:50,Cold Drink,Beverages,2,30,60,UPI,Thursday
+ORD01171,2026-02-05,12:15,Veg Sandwich,Snacks,1,40,40,Cash,Thursday
+ORD00843,2026-02-05,14:00,Masala Maggi,Fast Food,1,55,55,UPI,Thursday
+ORD00626,2026-02-05,17:40,French Fries,Snacks,1,80,80,UPI,Thursday
+ORD00053,2026-02-05,18:20,Cheese Burger,Fast Food,1,90,90,Card,Thursday
+ORD00295,2026-02-05,18:35,Samosa,Snacks,1,20,20,UPI,Thursday
+ORD00181,2026-02-06,12:55,Samosa,Snacks,1,15,15,UPI,Friday
+ORD00401,2026-02-07,08:05,Samosa,Snacks,1,15,15,Cash,Saturday
+ORD00336,2026-02-07,10:10,Masala Maggi,Fast Food,2,45,90,UPI,Saturday
+ORD00190,2026-02-07,12:35,Samosa,Snacks,2,20,40,Cash,Saturday
+ORD00240,2026-02-07,13:50,Veg Chowmein,Fast Food,2,55,110,Cash,Saturday
+ORD00040,2026-02-07,14:40,French Fries,Snacks,2,60,120,UPI,Saturday
+ORD01365,2026-02-07,14:45,Cold Coffee,Beverages,1,50,50,UPI,Saturday
+ORD00431,2026-02-08,08:05,Veg Momos,Snacks,2,55,110,Cash,Sunday
+ORD01445,2026-02-08,14:50,Masala Maggi,Fast Food,1,55,55,UPI,Sunday
+ORD00531,2026-02-08,16:25,Paneer Momos,Snacks,1,70,70,Cash,Sunday
+ORD01460,2026-02-08,18:00,Veg Momos,Snacks,1,45,45,UPI,Sunday
+ORD01324,2026-02-08,18:45,Cheese Burger,Fast Food,1,95,95,UPI,Sunday
+ORD00320,2026-02-08,18:50,Samosa,Snacks,1,15,15,UPI,Sunday
+ORD01476,2026-02-09,11:00,Veg Thali,Meals,1,125,125,UPI,Monday
+ORD00815,2026-02-09,15:40,Chai,Beverages,1,15,15,Cash,Monday
+ORD01355,2026-02-09,16:10,Chai,Beverages,1,10,10,UPI,Monday
+ORD00798,2026-02-09,16:55,Chole Kulche,Meals,1,65,65,UPI,Monday
+ORD01291,2026-02-10,09:15,Cold Drink,Beverages,1,30,30,UPI,Tuesday
+ORD00929,2026-02-10,13:05,Bread Pakora,Snacks,2,25,50,UPI,Tuesday
+ORD01424,2026-02-10,14:00,Chai,Beverages,3,10,30,Cash,Tuesday
+ORD00309,2026-02-10,17:25,Bread Pakora,Snacks,2,30,60,UPI,Tuesday
+ORD01073,2026-02-11,10:30,Lemon Soda,Beverages,1,40,40,UPI,Wednesday
+ORD00211,2026-02-11,12:00,Veg Burger,Fast Food,2,50,100,Cash,Wednesday
+ORD01237,2026-02-11,12:35,Ice Cream,Desserts,2,30,60,UPI,Wednesday
+ORD00658,2026-02-12,10:45,Cheese Sandwich,Snacks,1,65,65,UPI,Thursday
+ORD01303,2026-02-13,14:10,Masala Maggi,Fast Food,1,55,55,Cash,Friday
+ORD00421,2026-02-13,15:40,Veg Sandwich,Snacks,1,50,50,UPI,Friday
+ORD01352,2026-02-13,17:45,Cheese Sandwich,Snacks,1,65,65,UPI,Friday
+ORD00889,2026-02-14,10:10,Veg Burger,Fast Food,1,50,50,Cash,Saturday
+ORD00910,2026-02-14,10:20,Veg Chowmein,Fast Food,1,80,80,Card,Saturday
+ORD00783,2026-02-14,12:00,Veg Sandwich,Snacks,1,45,45,Cash,Saturday
+ORD00730,2026-02-14,15:40,Brownie,Desserts,2,60,120,UPI,Saturday
+ORD00625,2026-02-14,18:30,Cheese Burger,Fast Food,1,85,85,UPI,Saturday
+ORD00906,2026-02-14,18:30,Veg Momos,Snacks,1,50,50,UPI,Saturday
+ORD00504,2026-02-15,10:30,Aloo Paratha,Meals,1,55,55,UPI,Sunday
+ORD01222,2026-02-15,10:45,Chai,Beverages,2,15,30,UPI,Sunday
+ORD00479,2026-02-15,11:15,Mineral Water,Beverages,2,20,40,Cash,Sunday
+ORD00277,2026-02-15,15:15,Veg Fried Rice,Meals,2,95,190,Card,Sunday
+ORD00861,2026-02-15,15:20,Cheese Burger,Fast Food,1,70,70,Card,Sunday
+ORD01264,2026-02-15,16:50,Masala Maggi,Fast Food,1,55,55,UPI,Sunday
+ORD00878,2026-02-16,08:50,Veg Burger,Fast Food,1,75,75,UPI,Monday
+ORD00591,2026-02-16,12:40,Samosa,Snacks,2,15,30,Cash,Monday
+ORD00191,2026-02-16,15:40,Masala Maggi,Fast Food,1,60,60,Cash,Monday
+ORD01435,2026-02-17,12:40,Plain Dosa,Meals,2,75,150,UPI,Tuesday
+ORD00458,2026-02-17,12:45,Mineral Water,Beverages,1,15,15,Cash,Tuesday
+ORD00381,2026-02-17,13:55,French Fries,Snacks,1,60,60,UPI,Tuesday
+ORD01340,2026-02-17,14:35,Veg Momos,Snacks,1,45,45,UPI,Tuesday
+ORD00200,2026-02-17,15:30,Veg Chowmein,Fast Food,1,50,50,UPI,Tuesday
+ORD01219,2026-02-17,15:30,Masala Maggi,Fast Food,3,60,180,UPI,Tuesday
+ORD00965,2026-02-17,15:45,Veg Sandwich,Snacks,1,45,45,UPI,Tuesday
+ORD01381,2026-02-17,18:15,Lemon Soda,Beverages,2,30,60,UPI,Tuesday
+ORD00389,2026-02-18,08:35,Bread Pakora,Snacks,1,30,30,Cash,Wednesday
+ORD00657,2026-02-18,09:35,Chole Kulche,Meals,2,50,100,UPI,Wednesday
+ORD00284,2026-02-18,11:10,Veg Chowmein,Fast Food,1,55,55,UPI,Wednesday
+ORD00166,2026-02-18,12:25,Masala Dosa,Meals,3,90,270,Cash,Wednesday
+ORD01386,2026-02-18,13:10,Cold Drink,Beverages,1,30,30,UPI,Wednesday
+ORD00196,2026-02-18,14:30,French Fries,Snacks,2,75,150,Card,Wednesday
+ORD01285,2026-02-18,14:55,Chole Kulche,Meals,1,60,60,UPI,Wednesday
+ORD00921,2026-02-18,15:10,Veg Fried Rice,Meals,1,100,100,Cash,Wednesday
+ORD00862,2026-02-18,15:40,Veg Chowmein,Fast Food,2,65,130,Cash,Wednesday
+ORD00150,2026-02-19,11:40,Veg Sandwich,Snacks,1,50,50,Card,Thursday
+ORD01126,2026-02-19,15:30,Paneer Momos,Snacks,2,80,160,Cash,Thursday
+ORD00691,2026-02-20,09:50,Cold Coffee,Beverages,1,75,75,Cash,Friday
+ORD00830,2026-02-20,11:45,Masala Maggi,Fast Food,2,45,90,UPI,Friday
+ORD00333,2026-02-20,13:05,Cheese Burger,Fast Food,1,100,100,UPI,Friday
+ORD00781,2026-02-20,16:40,Masala Dosa,Meals,1,85,85,UPI,Friday
+ORD00131,2026-02-20,16:55,Lemon Soda,Beverages,1,40,40,UPI,Friday
+ORD00725,2026-02-20,17:35,Cold Coffee,Beverages,1,70,70,UPI,Friday
+ORD01320,2026-02-21,13:20,Cold Drink,Beverages,1,35,35,Cash,Saturday
+ORD00202,2026-02-21,14:40,Cold Coffee,Beverages,1,70,70,Cash,Saturday
+ORD01343,2026-02-21,15:10,Chai,Beverages,1,10,10,UPI,Saturday
+ORD00474,2026-02-21,17:45,Chai,Beverages,2,15,30,Cash,Saturday
+ORD00519,2026-02-21,17:50,Paneer Momos,Snacks,1,70,70,Cash,Saturday
+ORD00924,2026-02-22,11:40,Veg Momos,Snacks,2,45,90,Cash,Sunday
+ORD01187,2026-02-22,12:20,Cheese Maggi,Fast Food,1,75,75,Cash,Sunday
+ORD01260,2026-02-22,15:10,Masala Maggi,Fast Food,1,55,55,UPI,Sunday
+ORD01314,2026-02-22,15:40,Aloo Paratha,Meals,4,45,180,Cash,Sunday
+ORD01054,2026-02-22,16:00,Veg Chowmein,Fast Food,1,55,55,Cash,Sunday
+ORD00943,2026-02-22,16:10,Samosa,Snacks,1,15,15,Card,Sunday
+ORD01354,2026-02-23,11:35,Plain Dosa,Meals,2,70,140,Cash,Monday
+ORD00569,2026-02-23,11:55,Lemon Soda,Beverages,1,40,40,Card,Monday
+ORD00113,2026-02-23,16:25,Masala Maggi,Fast Food,1,55,55,Card,Monday
+ORD00937,2026-02-24,11:25,Ice Cream,Desserts,1,45,45,UPI,Tuesday
+ORD00795,2026-02-24,12:50,Bread Pakora,Snacks,1,25,25,UPI,Tuesday
+ORD01033,2026-02-24,13:00,Samosa,Snacks,1,15,15,Cash,Tuesday
+ORD01241,2026-02-24,13:55,Samosa,Snacks,2,20,40,Cash,Tuesday
+ORD01016,2026-02-24,16:10,Samosa,Snacks,2,20,40,Cash,Tuesday
+ORD00066,2026-02-24,16:15,Veg Momos,Snacks,1,60,60,UPI,Tuesday
+ORD00930,2026-02-25,09:50,Veg Chowmein,Fast Food,1,50,50,Cash,Wednesday
+ORD01374,2026-02-25,10:25,Veg Thali,Meals,1,115,115,UPI,Wednesday
+ORD01167,2026-02-25,12:35,Aloo Paratha,Meals,1,50,50,UPI,Wednesday
+ORD00359,2026-02-25,15:10,Cold Drink,Beverages,1,30,30,UPI,Wednesday
+ORD01305,2026-02-25,18:50,Cold Coffee,Beverages,1,55,55,Cash,Wednesday
+ORD01318,2026-02-26,11:20,Cold Drink,Beverages,1,40,40,Cash,Thursday
+ORD01143,2026-02-26,12:15,Veg Burger,Fast Food,1,55,55,UPI,Thursday
+ORD00518,2026-02-26,16:50,Veg Chowmein,Fast Food,2,50,100,UPI,Thursday
+ORD00001,2026-02-27,08:20,Paneer Momos,Snacks,2,65,130,Cash,Friday
+ORD00300,2026-02-27,09:50,Masala Maggi,Fast Food,1,40,40,UPI,Friday
+ORD00524,2026-02-27,10:55,Samosa,Snacks,1,15,15,Cash,Friday
+ORD00982,2026-02-27,12:30,Veg Chowmein,Fast Food,3,55,165,Cash,Friday
+ORD00813,2026-02-27,15:55,Bread Pakora,Snacks,2,30,60,Card,Friday
+ORD00938,2026-02-27,16:25,Veg Sandwich,Snacks,1,35,35,UPI,Friday
+ORD01036,2026-02-27,16:55,Brownie,Desserts,1,40,40,Cash,Friday
+ORD01396,2026-02-28,11:00,Veg Fried Rice,Meals,1,85,85,UPI,Saturday
+ORD01415,2026-02-28,11:35,Cold Drink,Beverages,3,35,105,UPI,Saturday
+ORD00373,2026-02-28,11:40,Coffee,Beverages,1,30,30,Cash,Saturday
+ORD00119,2026-02-28,13:05,Plain Dosa,Meals,1,65,65,UPI,Saturday
+ORD00081,2026-02-28,14:15,Cheese Maggi,Fast Food,2,65,130,UPI,Saturday
+ORD00854,2026-02-28,14:45,Veg Momos,Snacks,1,45,45,Card,Saturday
+ORD01182,2026-02-28,15:10,Veg Burger,Fast Food,1,75,75,UPI,Saturday
+ORD00082,2026-02-28,16:10,Brownie,Desserts,1,40,40,UPI,Saturday
+ORD00347,2026-02-28,17:15,Veg Thali,Meals,1,130,130,UPI,Saturday
+ORD01091,2026-02-28,18:40,Cheese Sandwich,Snacks,1,55,55,UPI,Saturday
+ORD01246,2026-03-01,11:05,Bread Pakora,Snacks,1,30,30,Card,Sunday
+ORD00463,2026-03-01,12:30,Veg Chowmein,Fast Food,1,75,75,UPI,Sunday
+ORD01240,2026-03-01,14:40,Paneer Momos,Snacks,1,65,65,Cash,Sunday
+ORD00926,2026-03-01,16:00,Veg Chowmein,Fast Food,1,60,60,UPI,Sunday
+ORD00257,2026-03-02,10:05,Masala Maggi,Fast Food,1,50,50,UPI,Monday
+ORD00515,2026-03-02,11:05,Veg Chowmein,Fast Food,1,70,70,UPI,Monday
+ORD01299,2026-03-02,11:35,Veg Burger,Fast Food,1,55,55,Cash,Monday
+ORD01308,2026-03-02,13:40,Veg Chowmein,Fast Food,1,75,75,UPI,Monday
+ORD00533,2026-03-02,18:55,Plain Dosa,Meals,1,60,60,UPI,Monday
+ORD01094,2026-03-03,09:15,Chai,Beverages,1,20,20,UPI,Tuesday
+ORD01323,2026-03-03,09:50,Coffee,Beverages,1,25,25,Card,Tuesday
+ORD00426,2026-03-03,10:50,Veg Burger,Fast Food,1,75,75,UPI,Tuesday
+ORD00944,2026-03-04,11:30,Chai,Beverages,2,15,30,Cash,Wednesday
+ORD00678,2026-03-04,11:50,Veg Burger,Fast Food,2,60,120,Cash,Wednesday
+ORD00067,2026-03-04,13:35,Masala Dosa,Meals,1,100,100,Card,Wednesday
+ORD01108,2026-03-05,12:30,Coffee,Beverages,1,30,30,Cash,Thursday
+ORD01199,2026-03-05,12:55,Masala Maggi,Fast Food,1,45,45,UPI,Thursday
+ORD01086,2026-03-05,15:05,Veg Momos,Snacks,1,60,60,Cash,Thursday
+ORD00395,2026-03-05,15:30,Cheese Burger,Fast Food,1,85,85,UPI,Thursday
+ORD00541,2026-03-05,16:35,Cheese Maggi,Fast Food,3,75,225,UPI,Thursday
+ORD00470,2026-03-06,09:05,Ice Cream,Desserts,1,45,45,Cash,Friday
+ORD01249,2026-03-06,14:45,Veg Thali,Meals,1,95,95,UPI,Friday
+ORD01357,2026-03-07,11:30,Cheese Burger,Fast Food,1,85,85,UPI,Saturday
+ORD01287,2026-03-07,11:50,Veg Chowmein,Fast Food,1,55,55,UPI,Saturday
+ORD01131,2026-03-07,12:30,Veg Chowmein,Fast Food,2,75,150,Cash,Saturday
+ORD01076,2026-03-07,14:35,Veg Sandwich,Snacks,1,35,35,UPI,Saturday
+ORD00497,2026-03-07,16:55,Coffee,Beverages,3,25,75,Cash,Saturday
+ORD01420,2026-03-07,18:30,Ice Cream,Desserts,1,35,35,UPI,Saturday
+ORD00076,2026-03-07,18:40,Samosa,Snacks,1,20,20,UPI,Saturday
+ORD01328,2026-03-08,11:45,Samosa,Snacks,1,25,25,UPI,Sunday
+ORD01000,2026-03-08,13:15,Veg Thali,Meals,2,110,220,UPI,Sunday
+ORD00526,2026-03-08,14:35,Veg Sandwich,Snacks,1,50,50,Cash,Sunday
+ORD00168,2026-03-08,14:45,Cold Drink,Beverages,1,35,35,Cash,Sunday
+ORD00766,2026-03-08,15:35,Veg Fried Rice,Meals,1,95,95,Cash,Sunday
+ORD00714,2026-03-08,16:35,Chole Kulche,Meals,1,65,65,UPI,Sunday
+ORD00510,2026-03-09,11:00,Veg Thali,Meals,1,100,100,Cash,Monday
+ORD01383,2026-03-09,12:25,Aloo Paratha,Meals,1,55,55,Cash,Monday
+ORD00891,2026-03-09,14:30,Cheese Maggi,Fast Food,1,55,55,UPI,Monday
+ORD00203,2026-03-09,15:10,Cheese Sandwich,Snacks,2,70,140,UPI,Monday
+ORD00894,2026-03-09,17:20,Cheese Sandwich,Snacks,1,60,60,UPI,Monday
+ORD01196,2026-03-10,12:50,Chai,Beverages,1,20,20,Cash,Tuesday
+ORD00288,2026-03-10,14:35,Chai,Beverages,1,20,20,Cash,Tuesday
+ORD00585,2026-03-10,15:25,Lemon Soda,Beverages,1,40,40,Cash,Tuesday
+ORD00670,2026-03-11,11:50,Cheese Maggi,Fast Food,1,70,70,Cash,Wednesday
+ORD00919,2026-03-11,12:00,French Fries,Snacks,1,65,65,Card,Wednesday
+ORD01495,2026-03-11,13:15,Veg Burger,Fast Food,1,50,50,Card,Wednesday
+ORD00661,2026-03-11,18:55,Veg Fried Rice,Meals,1,90,90,Cash,Wednesday
+ORD00275,2026-03-12,08:40,Ice Cream,Desserts,1,35,35,Card,Thursday
+ORD00071,2026-03-12,10:30,Idli Sambhar,Meals,1,70,70,UPI,Thursday
+ORD00912,2026-03-12,11:30,Veg Burger,Fast Food,1,65,65,Cash,Thursday
+ORD00392,2026-03-12,12:10,Plain Dosa,Meals,1,85,85,UPI,Thursday
+ORD00732,2026-03-12,15:50,Coffee,Beverages,1,25,25,Cash,Thursday
+ORD01158,2026-03-12,18:55,Chai,Beverages,1,15,15,UPI,Thursday
+ORD01233,2026-03-13,09:05,Cold Coffee,Beverages,3,60,180,Cash,Friday
+ORD01165,2026-03-13,10:25,Chole Kulche,Meals,1,80,80,UPI,Friday
+ORD01362,2026-03-13,11:10,Cold Coffee,Beverages,3,70,210,Cash,Friday
+ORD00978,2026-03-13,11:45,Chai,Beverages,1,10,10,Cash,Friday
+ORD00599,2026-03-13,13:15,Bread Pakora,Snacks,1,30,30,UPI,Friday
+ORD00332,2026-03-13,16:55,Chai,Beverages,2,20,40,UPI,Friday
+ORD00587,2026-03-13,17:15,French Fries,Snacks,1,75,75,UPI,Friday
+ORD00357,2026-03-14,12:25,Cheese Maggi,Fast Food,1,60,60,UPI,Saturday
+ORD00174,2026-03-14,16:00,Bread Pakora,Snacks,1,30,30,UPI,Saturday
+ORD00923,2026-03-15,08:40,French Fries,Snacks,1,80,80,Cash,Sunday
+ORD00258,2026-03-15,11:40,Masala Maggi,Fast Food,1,40,40,UPI,Sunday
+ORD01364,2026-03-15,12:00,Idli Sambhar,Meals,1,60,60,Cash,Sunday
+ORD01279,2026-03-15,14:05,Aloo Paratha,Meals,4,50,200,UPI,Sunday
+ORD01345,2026-03-15,18:45,Samosa,Snacks,3,15,45,Cash,Sunday
+ORD00316,2026-03-16,08:40,Cold Drink,Beverages,1,40,40,UPI,Monday
+ORD01001,2026-03-16,09:20,Paneer Momos,Snacks,2,75,150,UPI,Monday
+ORD00212,2026-03-16,10:20,Mineral Water,Beverages,1,20,20,UPI,Monday
+ORD01132,2026-03-16,10:20,Veg Thali,Meals,1,110,110,UPI,Monday
+ORD00753,2026-03-16,11:55,Samosa,Snacks,1,20,20,Cash,Monday
+ORD01259,2026-03-16,11:55,Veg Momos,Snacks,1,40,40,Cash,Monday
+ORD00983,2026-03-16,12:55,Masala Maggi,Fast Food,1,50,50,Card,Monday
+ORD01404,2026-03-16,12:55,Chai,Beverages,2,20,40,UPI,Monday
+ORD00593,2026-03-16,16:35,Cold Drink,Beverages,1,25,25,UPI,Monday
+ORD01283,2026-03-16,17:15,French Fries,Snacks,1,50,50,Card,Monday
+ORD00652,2026-03-16,17:50,Coffee,Beverages,1,30,30,UPI,Monday
+ORD00163,2026-03-17,09:20,Aloo Paratha,Meals,1,60,60,UPI,Tuesday
+ORD00469,2026-03-17,10:35,Veg Momos,Snacks,3,45,135,Cash,Tuesday
+ORD01218,2026-03-17,11:45,Chole Kulche,Meals,2,75,150,UPI,Tuesday
+ORD00971,2026-03-17,11:55,Masala Dosa,Meals,2,90,180,UPI,Tuesday
+ORD00047,2026-03-17,13:00,Veg Burger,Fast Food,3,80,240,UPI,Tuesday
+ORD01064,2026-03-17,15:35,Plain Dosa,Meals,1,80,80,UPI,Tuesday
+ORD00471,2026-03-17,16:20,Veg Burger,Fast Food,2,75,150,UPI,Tuesday
+ORD00719,2026-03-17,17:20,Samosa,Snacks,2,25,50,UPI,Tuesday
+ORD00434,2026-03-18,09:45,Aloo Paratha,Meals,1,50,50,Cash,Wednesday
+ORD00785,2026-03-18,10:05,Samosa,Snacks,1,25,25,UPI,Wednesday
+ORD00197,2026-03-18,12:45,Masala Dosa,Meals,1,90,90,Cash,Wednesday
+ORD00875,2026-03-18,17:00,Masala Maggi,Fast Food,1,40,40,UPI,Wednesday
+ORD01160,2026-03-18,17:15,Veg Momos,Snacks,1,45,45,UPI,Wednesday
+ORD00321,2026-03-19,08:40,Cheese Maggi,Fast Food,1,55,55,Cash,Thursday
+ORD00126,2026-03-19,14:00,Veg Sandwich,Snacks,2,45,90,Cash,Thursday
+ORD00570,2026-03-20,08:55,Veg Burger,Fast Food,1,50,50,UPI,Friday
+ORD00461,2026-03-20,09:00,Masala Maggi,Fast Food,2,50,100,Cash,Friday
+ORD01325,2026-03-20,09:15,Masala Maggi,Fast Food,2,50,100,Cash,Friday
+ORD00897,2026-03-20,10:05,Samosa,Snacks,1,20,20,UPI,Friday
+ORD00780,2026-03-20,11:35,Chai,Beverages,1,20,20,UPI,Friday
+ORD00808,2026-03-20,11:50,Veg Sandwich,Snacks,1,35,35,UPI,Friday
+ORD00231,2026-03-20,15:25,Masala Maggi,Fast Food,1,40,40,UPI,Friday
+ORD01418,2026-03-20,16:40,Coffee,Beverages,1,30,30,Card,Friday
+ORD00187,2026-03-20,16:50,Bread Pakora,Snacks,1,30,30,Cash,Friday
+ORD00128,2026-03-21,09:20,Cheese Burger,Fast Food,1,95,95,UPI,Saturday
+ORD00176,2026-03-21,10:45,Samosa,Snacks,1,15,15,UPI,Saturday
+ORD00043,2026-03-21,11:45,Veg Momos,Snacks,1,50,50,UPI,Saturday
+ORD00681,2026-03-21,12:05,Paneer Momos,Snacks,1,75,75,Card,Saturday
+ORD00404,2026-03-21,14:30,Veg Thali,Meals,1,95,95,Card,Saturday
+ORD01209,2026-03-21,16:35,Samosa,Snacks,1,20,20,Cash,Saturday
+ORD01026,2026-03-21,17:40,Aloo Paratha,Meals,1,60,60,UPI,Saturday
+ORD00727,2026-03-22,08:50,Cheese Burger,Fast Food,1,95,95,Card,Sunday
+ORD00600,2026-03-22,12:55,Coffee,Beverages,1,25,25,UPI,Sunday
+ORD00041,2026-03-22,13:40,Idli Sambhar,Meals,3,65,195,UPI,Sunday
+ORD00699,2026-03-22,14:45,Cheese Maggi,Fast Food,2,65,130,Card,Sunday
+ORD01055,2026-03-22,15:55,Cheese Maggi,Fast Food,1,75,75,UPI,Sunday
+ORD01152,2026-03-22,17:25,French Fries,Snacks,1,50,50,UPI,Sunday
+ORD01077,2026-03-22,18:25,Cold Drink,Beverages,1,25,25,UPI,Sunday
+ORD01050,2026-03-23,11:40,Samosa,Snacks,1,15,15,UPI,Monday
+ORD00229,2026-03-23,18:10,Cold Coffee,Beverages,2,75,150,UPI,Monday
+ORD01255,2026-03-23,18:40,Masala Maggi,Fast Food,1,55,55,Card,Monday
+ORD00619,2026-03-24,10:40,Masala Maggi,Fast Food,2,50,100,UPI,Tuesday
+ORD00242,2026-03-24,12:55,Veg Momos,Snacks,2,60,120,Cash,Tuesday
+ORD00896,2026-03-24,15:20,Veg Momos,Snacks,2,45,90,Cash,Tuesday
+ORD01488,2026-03-25,12:20,Samosa,Snacks,1,20,20,UPI,Wednesday
+ORD01021,2026-03-25,12:30,French Fries,Snacks,3,80,240,UPI,Wednesday
+ORD01347,2026-03-25,12:35,Cheese Sandwich,Snacks,1,50,50,UPI,Wednesday
+ORD00456,2026-03-25,13:00,Veg Burger,Fast Food,1,60,60,UPI,Wednesday
+ORD00750,2026-03-25,15:05,Bread Pakora,Snacks,1,30,30,UPI,Wednesday
+ORD01180,2026-03-26,11:40,Samosa,Snacks,1,15,15,Cash,Thursday
+ORD01061,2026-03-26,13:30,Chai,Beverages,2,20,40,UPI,Thursday
+ORD00953,2026-03-26,14:10,Veg Burger,Fast Food,1,65,65,UPI,Thursday
+ORD00592,2026-03-26,16:10,Cheese Maggi,Fast Food,1,60,60,UPI,Thursday
+ORD00371,2026-03-27,10:00,Chai,Beverages,1,10,10,UPI,Friday
+ORD01227,2026-03-27,10:05,Masala Maggi,Fast Food,1,50,50,UPI,Friday
+ORD00603,2026-03-27,11:10,Veg Chowmein,Fast Food,1,65,65,UPI,Friday
+ORD01190,2026-03-27,15:00,Masala Maggi,Fast Food,2,40,80,UPI,Friday
+ORD01478,2026-03-27,16:05,Veg Sandwich,Snacks,1,45,45,Cash,Friday
+ORD00319,2026-03-28,10:40,Veg Chowmein,Fast Food,4,70,280,UPI,Saturday
+ORD01006,2026-03-28,14:25,Lemon Soda,Beverages,1,30,30,UPI,Saturday
+ORD00062,2026-03-28,15:20,Veg Chowmein,Fast Food,1,75,75,Card,Saturday
+ORD00244,2026-03-28,15:45,Cheese Sandwich,Snacks,2,70,140,Cash,Saturday
+ORD01013,2026-03-28,16:20,Chole Kulche,Meals,1,75,75,Card,Saturday
+ORD00787,2026-03-29,09:45,Mineral Water,Beverages,1,20,20,Cash,Sunday
+ORD00794,2026-03-29,11:25,Aloo Paratha,Meals,1,45,45,Cash,Sunday
+ORD00010,2026-03-29,14:15,Cheese Sandwich,Snacks,1,65,65,Cash,Sunday
+ORD01144,2026-03-29,18:45,Lemon Soda,Beverages,1,25,25,UPI,Sunday
+ORD00441,2026-03-30,11:45,Veg Burger,Fast Food,1,75,75,Cash,Monday
+ORD01048,2026-03-30,11:45,Veg Chowmein,Fast Food,1,80,80,Card,Monday
+ORD00267,2026-03-30,13:40,Cheese Burger,Fast Food,1,80,80,Cash,Monday
+ORD00807,2026-03-30,14:15,Chole Kulche,Meals,2,80,160,Cash,Monday
+ORD00368,2026-03-30,14:35,Veg Burger,Fast Food,1,55,55,UPI,Monday
+ORD00406,2026-03-31,10:55,Veg Sandwich,Snacks,1,35,35,Card,Tuesday
+ORD01484,2026-03-31,11:50,Cheese Burger,Fast Food,1,80,80,UPI,Tuesday
+ORD00449,2026-03-31,12:55,Masala Dosa,Meals,1,85,85,UPI,Tuesday
+ORD00628,2026-03-31,13:05,Chole Kulche,Meals,1,70,70,Card,Tuesday
+ORD00305,2026-03-31,15:30,Chole Kulche,Meals,3,50,150,Card,Tuesday
+ORD00283,2026-03-31,15:50,Mineral Water,Beverages,1,20,20,UPI,Tuesday
+ORD00884,2026-03-31,15:55,Bread Pakora,Snacks,2,30,60,UPI,Tuesday
+ORD00543,2026-04-01,15:10,Chai,Beverages,1,10,10,Cash,Wednesday
+ORD01142,2026-04-01,16:05,Samosa,Snacks,1,25,25,Cash,Wednesday
+ORD00050,2026-04-01,17:00,Veg Momos,Snacks,2,50,100,UPI,Wednesday
+ORD00324,2026-04-02,10:05,Veg Fried Rice,Meals,1,75,75,UPI,Thursday
+ORD00617,2026-04-02,12:40,Veg Chowmein,Fast Food,1,60,60,Cash,Thursday
+ORD00749,2026-04-02,13:55,Mineral Water,Beverages,1,20,20,UPI,Thursday
+ORD00548,2026-04-02,14:55,Aloo Paratha,Meals,2,40,80,UPI,Thursday
+ORD00839,2026-04-02,15:05,Veg Sandwich,Snacks,1,50,50,Cash,Thursday
+ORD00412,2026-04-02,17:00,Chole Kulche,Meals,2,75,150,UPI,Thursday
+ORD01428,2026-04-03,10:35,Cold Coffee,Beverages,1,80,80,UPI,Friday
+ORD00226,2026-04-03,14:25,Veg Sandwich,Snacks,1,45,45,UPI,Friday
+ORD01341,2026-04-03,15:00,Veg Burger,Fast Food,2,55,110,Cash,Friday
+ORD00748,2026-04-03,16:55,Veg Fried Rice,Meals,1,85,85,UPI,Friday
+ORD01088,2026-04-03,18:20,Chai,Beverages,2,10,20,Cash,Friday
+ORD01319,2026-04-04,09:00,Plain Dosa,Meals,1,70,70,Cash,Saturday
+ORD00606,2026-04-04,15:40,French Fries,Snacks,1,75,75,UPI,Saturday
+ORD00221,2026-04-04,16:05,Chai,Beverages,1,15,15,Cash,Saturday
+ORD00241,2026-04-04,16:10,Cheese Maggi,Fast Food,2,55,110,UPI,Saturday
+ORD01226,2026-04-04,16:15,French Fries,Snacks,1,80,80,Cash,Saturday
+ORD00758,2026-04-05,10:50,Cheese Burger,Fast Food,2,75,150,Cash,Sunday
+ORD00643,2026-04-05,14:15,Masala Maggi,Fast Food,1,50,50,UPI,Sunday
+ORD01372,2026-04-05,16:40,Aloo Paratha,Meals,2,40,80,UPI,Sunday
+ORD00036,2026-04-06,09:05,Masala Dosa,Meals,1,85,85,Card,Monday
+ORD00969,2026-04-06,14:15,Plain Dosa,Meals,2,90,180,UPI,Monday
+ORD01235,2026-04-07,08:50,Brownie,Desserts,1,50,50,UPI,Tuesday
+ORD01342,2026-04-07,09:05,Masala Maggi,Fast Food,2,55,110,Card,Tuesday
+ORD00671,2026-04-07,12:10,Samosa,Snacks,1,25,25,Card,Tuesday
+ORD01407,2026-04-07,13:40,Chai,Beverages,1,20,20,UPI,Tuesday
+ORD01469,2026-04-07,13:45,French Fries,Snacks,1,70,70,UPI,Tuesday
+ORD00941,2026-04-07,16:35,Cold Drink,Beverages,1,35,35,Card,Tuesday
+ORD01220,2026-04-07,17:10,Coffee,Beverages,1,30,30,UPI,Tuesday
+ORD00223,2026-04-08,11:00,Cold Coffee,Beverages,1,60,60,Cash,Wednesday
+ORD01145,2026-04-08,11:30,Idli Sambhar,Meals,1,55,55,Card,Wednesday
+ORD00034,2026-04-08,12:00,Chole Kulche,Meals,1,70,70,UPI,Wednesday
+ORD00635,2026-04-08,14:15,Paneer Momos,Snacks,2,65,130,UPI,Wednesday
+ORD01191,2026-04-08,15:40,Masala Maggi,Fast Food,1,55,55,UPI,Wednesday
+ORD01248,2026-04-08,16:30,Veg Burger,Fast Food,2,60,120,Card,Wednesday
+ORD00121,2026-04-08,17:40,Chai,Beverages,2,10,20,UPI,Wednesday
+ORD01408,2026-04-08,18:45,Cold Drink,Beverages,2,35,70,UPI,Wednesday
+ORD00096,2026-04-09,11:35,French Fries,Snacks,3,70,210,UPI,Thursday
+ORD00059,2026-04-09,13:30,Masala Dosa,Meals,1,85,85,UPI,Thursday
+ORD01072,2026-04-09,16:25,Cheese Maggi,Fast Food,1,60,60,Cash,Thursday
+ORD00256,2026-04-10,12:20,Bread Pakora,Snacks,1,30,30,UPI,Friday
+ORD00206,2026-04-10,12:45,Ice Cream,Desserts,2,45,90,Cash,Friday
+ORD00831,2026-04-10,14:50,Masala Dosa,Meals,1,85,85,UPI,Friday
+ORD01238,2026-04-10,15:40,Lemon Soda,Beverages,1,25,25,Cash,Friday
+ORD01212,2026-04-11,10:15,Samosa,Snacks,2,25,50,UPI,Saturday
+ORD01120,2026-04-11,10:20,Samosa,Snacks,1,25,25,Cash,Saturday
+ORD00057,2026-04-11,12:05,Cold Drink,Beverages,1,35,35,UPI,Saturday
+ORD01157,2026-04-11,15:20,Veg Burger,Fast Food,2,80,160,UPI,Saturday
+ORD00557,2026-04-11,16:15,Veg Burger,Fast Food,3,55,165,Card,Saturday
+ORD00417,2026-04-11,16:40,Chai,Beverages,1,10,10,UPI,Saturday
+ORD00995,2026-04-12,10:25,Veg Momos,Snacks,3,55,165,UPI,Sunday
+ORD00997,2026-04-12,11:10,Samosa,Snacks,1,25,25,UPI,Sunday
+ORD01225,2026-04-12,14:40,Cold Drink,Beverages,1,40,40,UPI,Sunday
+ORD00650,2026-04-12,14:50,Plain Dosa,Meals,3,65,195,UPI,Sunday
+ORD01316,2026-04-13,10:00,Masala Maggi,Fast Food,1,60,60,Cash,Monday
+ORD00547,2026-04-13,11:55,Veg Burger,Fast Food,2,60,120,UPI,Monday
+ORD00345,2026-04-13,14:10,Brownie,Desserts,1,50,50,Cash,Monday
+ORD00424,2026-04-14,10:45,Veg Sandwich,Snacks,1,35,35,UPI,Tuesday
+ORD01151,2026-04-14,13:15,Masala Maggi,Fast Food,1,50,50,UPI,Tuesday
+ORD00291,2026-04-14,14:10,Cheese Sandwich,Snacks,1,70,70,Cash,Tuesday
+ORD00636,2026-04-14,16:45,Cheese Burger,Fast Food,1,100,100,Card,Tuesday
+ORD01205,2026-04-15,10:10,Veg Thali,Meals,1,105,105,UPI,Wednesday
+ORD00179,2026-04-15,12:15,Chai,Beverages,1,15,15,UPI,Wednesday
+ORD00486,2026-04-16,11:30,Veg Chowmein,Fast Food,2,80,160,Cash,Thursday
+ORD00962,2026-04-16,12:40,Coffee,Beverages,1,30,30,UPI,Thursday
+ORD00932,2026-04-16,15:15,Veg Momos,Snacks,1,50,50,UPI,Thursday
+ORD00377,2026-04-16,16:45,Cheese Burger,Fast Food,1,80,80,UPI,Thursday
+ORD00517,2026-04-17,15:35,Veg Burger,Fast Food,1,50,50,UPI,Friday
+ORD00882,2026-04-17,16:05,Aloo Paratha,Meals,2,50,100,UPI,Friday
+ORD00768,2026-04-17,16:30,Masala Maggi,Fast Food,1,50,50,Cash,Friday
+ORD01270,2026-04-17,18:05,Veg Momos,Snacks,1,60,60,UPI,Friday
+ORD01112,2026-04-18,08:50,Masala Maggi,Fast Food,1,50,50,UPI,Saturday
+ORD00784,2026-04-18,12:15,French Fries,Snacks,1,70,70,UPI,Saturday
+ORD01105,2026-04-18,13:45,Veg Burger,Fast Food,1,75,75,UPI,Saturday
+ORD00886,2026-04-18,16:15,Veg Burger,Fast Food,1,60,60,UPI,Saturday
+ORD00246,2026-04-18,16:30,Aloo Paratha,Meals,1,40,40,UPI,Saturday
+ORD00769,2026-04-19,08:15,Masala Dosa,Meals,2,90,180,UPI,Sunday
+ORD00312,2026-04-19,18:55,Veg Sandwich,Snacks,2,50,100,Cash,Sunday
+ORD00964,2026-04-20,11:00,Veg Burger,Fast Food,1,70,70,UPI,Monday
+ORD00201,2026-04-20,12:35,Veg Momos,Snacks,1,45,45,UPI,Monday
+ORD00701,2026-04-20,12:40,Cold Drink,Beverages,1,35,35,UPI,Monday
+ORD01400,2026-04-20,15:20,Veg Momos,Snacks,1,40,40,Cash,Monday
+ORD01080,2026-04-21,11:55,Veg Chowmein,Fast Food,1,50,50,UPI,Tuesday
+ORD01277,2026-04-21,15:20,Veg Sandwich,Snacks,1,50,50,UPI,Tuesday
+ORD00156,2026-04-21,16:15,Veg Burger,Fast Food,2,55,110,UPI,Tuesday
+ORD00489,2026-04-22,14:50,Veg Fried Rice,Meals,1,90,90,UPI,Wednesday
+ORD00294,2026-04-22,15:00,Masala Maggi,Fast Food,1,40,40,UPI,Wednesday
+ORD00756,2026-04-22,15:35,Cheese Maggi,Fast Food,1,70,70,UPI,Wednesday
+ORD00679,2026-04-22,18:15,Aloo Paratha,Meals,1,50,50,Cash,Wednesday
+ORD00834,2026-04-22,18:50,Veg Sandwich,Snacks,1,35,35,UPI,Wednesday
+ORD01193,2026-04-23,09:20,Plain Dosa,Meals,1,70,70,Cash,Thursday
+ORD00904,2026-04-23,13:05,Veg Burger,Fast Food,1,70,70,UPI,Thursday
+ORD00011,2026-04-23,15:00,Veg Momos,Snacks,2,40,80,UPI,Thursday
+ORD01360,2026-04-23,15:15,Masala Maggi,Fast Food,4,45,180,UPI,Thursday
+ORD00833,2026-04-23,15:20,Veg Momos,Snacks,1,40,40,UPI,Thursday
+ORD01242,2026-04-23,15:50,Veg Chowmein,Fast Food,1,75,75,UPI,Thursday
+ORD01472,2026-04-23,16:55,French Fries,Snacks,1,55,55,UPI,Thursday
+ORD01137,2026-04-23,17:50,Veg Momos,Snacks,1,45,45,UPI,Thursday
+ORD01141,2026-04-23,17:55,Veg Momos,Snacks,1,60,60,UPI,Thursday
+ORD00430,2026-04-24,10:30,Masala Maggi,Fast Food,1,40,40,UPI,Friday
+ORD00711,2026-04-24,10:50,Chai,Beverages,3,15,45,Cash,Friday
+ORD00928,2026-04-24,10:55,Veg Sandwich,Snacks,1,40,40,UPI,Friday
+ORD01111,2026-04-24,11:35,Brownie,Desserts,1,40,40,Cash,Friday
+ORD00185,2026-04-24,12:10,Bread Pakora,Snacks,1,30,30,UPI,Friday
+ORD00498,2026-04-24,12:55,Lemon Soda,Beverages,2,40,80,UPI,Friday
+ORD00093,2026-04-24,13:15,Veg Burger,Fast Food,1,70,70,UPI,Friday
+ORD00355,2026-04-24,13:30,Cheese Maggi,Fast Food,1,75,75,UPI,Friday
+ORD00451,2026-04-24,15:05,Cold Drink,Beverages,1,30,30,UPI,Friday
+ORD00905,2026-04-24,16:20,Veg Momos,Snacks,1,40,40,UPI,Friday
+ORD01351,2026-04-25,10:20,Cheese Burger,Fast Food,1,90,90,Card,Saturday
+ORD00792,2026-04-25,10:45,French Fries,Snacks,1,60,60,Cash,Saturday
+ORD01393,2026-04-25,12:35,Masala Dosa,Meals,1,90,90,Cash,Saturday
+ORD00536,2026-04-25,16:25,Chole Kulche,Meals,1,70,70,UPI,Saturday
+ORD00811,2026-04-26,11:45,Samosa,Snacks,2,20,40,UPI,Sunday
+ORD00326,2026-04-26,12:05,Plain Dosa,Meals,1,90,90,UPI,Sunday
+ORD01254,2026-04-26,15:00,Cold Drink,Beverages,2,30,60,UPI,Sunday
+ORD00465,2026-04-26,16:45,Samosa,Snacks,1,25,25,UPI,Sunday
+ORD00145,2026-04-26,17:55,Masala Dosa,Meals,3,95,285,UPI,Sunday
+ORD01051,2026-04-27,10:15,Veg Chowmein,Fast Food,2,60,120,Cash,Monday
+ORD00478,2026-04-27,10:55,Cheese Maggi,Fast Food,1,65,65,UPI,Monday
+ORD00868,2026-04-27,10:55,Masala Maggi,Fast Food,1,45,45,UPI,Monday
+ORD00663,2026-04-27,16:35,Veg Burger,Fast Food,1,65,65,UPI,Monday
+ORD01315,2026-04-28,10:30,Samosa,Snacks,2,15,30,UPI,Tuesday
+ORD00873,2026-04-28,10:40,Veg Chowmein,Fast Food,1,55,55,Cash,Tuesday
+ORD00299,2026-04-28,11:25,Cheese Sandwich,Snacks,2,55,110,Cash,Tuesday
+ORD01290,2026-04-28,12:05,Cold Drink,Beverages,2,40,80,Cash,Tuesday
+ORD00317,2026-04-28,12:15,Veg Chowmein,Fast Food,3,75,225,UPI,Tuesday
+ORD00391,2026-04-28,12:55,Coffee,Beverages,1,20,20,Cash,Tuesday
+ORD00025,2026-04-28,15:00,Bread Pakora,Snacks,1,30,30,UPI,Tuesday
+ORD01421,2026-04-29,10:10,Veg Chowmein,Fast Food,1,75,75,UPI,Wednesday
+ORD01317,2026-04-29,11:30,Veg Chowmein,Fast Food,1,70,70,UPI,Wednesday
+ORD00666,2026-04-29,16:40,Masala Maggi,Fast Food,2,55,110,UPI,Wednesday
+ORD00892,2026-04-29,16:40,Plain Dosa,Meals,1,75,75,Cash,Wednesday
+ORD00718,2026-04-30,11:25,Cheese Sandwich,Snacks,1,50,50,UPI,Thursday
+ORD01198,2026-04-30,14:55,Ice Cream,Desserts,1,35,35,Cash,Thursday
+ORD00767,2026-04-30,15:15,Samosa,Snacks,1,15,15,Cash,Thursday
+ORD00008,2026-04-30,17:30,French Fries,Snacks,2,75,150,UPI,Thursday
+ORD00439,2026-04-30,18:05,Paneer Momos,Snacks,1,65,65,Cash,Thursday
+ORD00987,2026-05-01,12:10,Mineral Water,Beverages,2,20,40,Cash,Friday
+ORD00973,2026-05-01,13:05,Cheese Sandwich,Snacks,1,50,50,Cash,Friday
+ORD00645,2026-05-01,14:30,Veg Momos,Snacks,1,45,45,UPI,Friday
+ORD01228,2026-05-01,14:50,Chai,Beverages,1,10,10,Cash,Friday
+ORD00063,2026-05-01,15:15,Coffee,Beverages,1,25,25,UPI,Friday
+ORD00656,2026-05-01,15:55,Idli Sambhar,Meals,1,45,45,UPI,Friday
+ORD00986,2026-05-02,16:30,Samosa,Snacks,2,20,40,UPI,Saturday
+ORD00405,2026-05-03,09:05,Cold Drink,Beverages,1,25,25,UPI,Sunday
+ORD01471,2026-05-03,09:05,French Fries,Snacks,1,70,70,UPI,Sunday
+ORD00070,2026-05-03,11:05,Chai,Beverages,1,10,10,UPI,Sunday
+ORD00848,2026-05-03,14:05,Chai,Beverages,1,20,20,Cash,Sunday
+ORD00118,2026-05-03,15:20,Chole Kulche,Meals,1,70,70,Cash,Sunday
+ORD01037,2026-05-04,13:50,Cold Coffee,Beverages,1,70,70,UPI,Monday
+ORD00250,2026-05-04,14:20,Cheese Maggi,Fast Food,1,60,60,UPI,Monday
+ORD00134,2026-05-04,14:45,Veg Sandwich,Snacks,1,50,50,UPI,Monday
+ORD00092,2026-05-04,15:50,Idli Sambhar,Meals,2,60,120,UPI,Monday
+ORD00219,2026-05-04,16:50,Veg Sandwich,Snacks,1,45,45,UPI,Monday
+ORD01363,2026-05-05,11:15,Samosa,Snacks,1,15,15,Cash,Tuesday
+ORD00184,2026-05-05,13:30,Veg Fried Rice,Meals,2,85,170,Cash,Tuesday
+ORD01183,2026-05-05,15:35,Veg Sandwich,Snacks,2,45,90,UPI,Tuesday
+ORD00630,2026-05-05,16:35,Masala Dosa,Meals,2,100,200,UPI,Tuesday
+ORD01442,2026-05-06,09:50,Masala Maggi,Fast Food,2,45,90,UPI,Wednesday
+ORD00757,2026-05-06,17:20,Aloo Paratha,Meals,2,60,120,UPI,Wednesday
+ORD01146,2026-05-06,17:45,Veg Thali,Meals,1,130,130,UPI,Wednesday
+ORD01147,2026-05-07,09:20,Lemon Soda,Beverages,1,40,40,UPI,Thursday
+ORD01477,2026-05-07,14:00,Coffee,Beverages,2,30,60,UPI,Thursday
+ORD01312,2026-05-07,15:55,Veg Chowmein,Fast Food,1,55,55,UPI,Thursday
+ORD01097,2026-05-07,16:50,Chai,Beverages,1,15,15,UPI,Thursday
+ORD00667,2026-05-08,10:55,Plain Dosa,Meals,1,90,90,UPI,Friday
+ORD01176,2026-05-08,11:45,Chai,Beverages,1,15,15,Cash,Friday
+ORD00051,2026-05-08,11:55,Veg Sandwich,Snacks,2,35,70,UPI,Friday
+ORD01188,2026-05-08,12:15,Veg Momos,Snacks,1,40,40,Card,Friday
+ORD01234,2026-05-08,12:45,Masala Dosa,Meals,1,110,110,UPI,Friday
+ORD00581,2026-05-09,10:55,Chole Kulche,Meals,1,60,60,UPI,Saturday
+ORD01304,2026-05-09,11:30,Masala Maggi,Fast Food,1,50,50,Cash,Saturday
+ORD00243,2026-05-09,11:40,French Fries,Snacks,1,75,75,UPI,Saturday
+ORD00095,2026-05-09,11:55,Veg Momos,Snacks,2,40,80,Cash,Saturday
+ORD00571,2026-05-09,14:45,Coffee,Beverages,1,30,30,UPI,Saturday
+ORD00647,2026-05-09,14:45,Samosa,Snacks,1,15,15,Cash,Saturday
+ORD00675,2026-05-09,16:00,Veg Sandwich,Snacks,1,40,40,UPI,Saturday
+ORD00755,2026-05-10,08:35,Cold Coffee,Beverages,2,70,140,UPI,Sunday
+ORD00559,2026-05-11,08:35,Idli Sambhar,Meals,1,50,50,Card,Monday
+ORD01215,2026-05-11,16:55,Cheese Burger,Fast Food,1,95,95,Cash,Monday
+ORD00692,2026-05-12,09:15,Aloo Paratha,Meals,1,40,40,Card,Tuesday
+ORD00282,2026-05-12,15:00,Chai,Beverages,1,15,15,Cash,Tuesday
+ORD01388,2026-05-12,16:35,Plain Dosa,Meals,2,65,130,Card,Tuesday
+ORD00631,2026-05-13,09:50,Chai,Beverages,1,10,10,UPI,Wednesday
+ORD00642,2026-05-13,11:20,Paneer Momos,Snacks,3,75,225,UPI,Wednesday
+ORD00917,2026-05-13,15:35,Ice Cream,Desserts,1,30,30,Cash,Wednesday
+ORD01007,2026-05-14,10:00,Ice Cream,Desserts,2,45,90,Cash,Thursday
+ORD00499,2026-05-14,15:35,Cold Coffee,Beverages,1,65,65,Cash,Thursday
+ORD01422,2026-05-14,16:10,Cold Drink,Beverages,1,30,30,UPI,Thursday
+ORD00914,2026-05-15,12:50,Coffee,Beverages,1,35,35,Cash,Friday
+ORD00018,2026-05-15,18:10,Veg Chowmein,Fast Food,2,50,100,UPI,Friday
+ORD01313,2026-05-15,18:15,Masala Dosa,Meals,1,95,95,Cash,Friday
+ORD00055,2026-05-16,09:45,Cheese Maggi,Fast Food,1,65,65,UPI,Saturday
+ORD00159,2026-05-16,09:55,Masala Maggi,Fast Food,2,40,80,Cash,Saturday
+ORD01032,2026-05-16,12:10,Veg Momos,Snacks,2,40,80,Cash,Saturday
+ORD01417,2026-05-16,12:30,Masala Dosa,Meals,2,80,160,UPI,Saturday
+ORD00475,2026-05-16,12:35,Chole Kulche,Meals,1,65,65,UPI,Saturday
+ORD01455,2026-05-16,12:45,Chai,Beverages,1,15,15,UPI,Saturday
+ORD00104,2026-05-16,15:10,Paneer Momos,Snacks,1,80,80,UPI,Saturday
+ORD00268,2026-05-16,15:15,Brownie,Desserts,1,50,50,Card,Saturday
+ORD01155,2026-05-16,15:25,Mineral Water,Beverages,2,20,40,Cash,Saturday
+ORD00106,2026-05-16,16:50,Veg Thali,Meals,1,105,105,Cash,Saturday
+ORD01288,2026-05-17,09:55,Aloo Paratha,Meals,1,50,50,UPI,Sunday
+ORD00737,2026-05-17,15:45,Paneer Momos,Snacks,1,65,65,UPI,Sunday
+ORD00107,2026-05-17,16:05,Samosa,Snacks,1,20,20,Card,Sunday
+ORD01230,2026-05-17,17:35,Chai,Beverages,1,20,20,Cash,Sunday
+ORD00088,2026-05-18,12:15,Coffee,Beverages,1,20,20,UPI,Monday
+ORD00341,2026-05-18,12:35,Cheese Sandwich,Snacks,1,55,55,UPI,Monday
+ORD00111,2026-05-18,14:10,Veg Chowmein,Fast Food,1,75,75,UPI,Monday
+ORD01024,2026-05-18,14:30,Bread Pakora,Snacks,2,25,50,UPI,Monday
+ORD00408,2026-05-18,16:05,Chai,Beverages,1,10,10,UPI,Monday
+ORD00522,2026-05-18,17:05,Masala Maggi,Fast Food,1,50,50,UPI,Monday
+ORD01043,2026-05-18,17:30,Lemon Soda,Beverages,1,25,25,Card,Monday
+ORD00740,2026-05-19,18:15,Chai,Beverages,2,10,20,UPI,Tuesday
+ORD00273,2026-05-20,10:45,Chai,Beverages,1,10,10,Cash,Wednesday
+ORD01468,2026-05-20,12:00,Plain Dosa,Meals,2,85,170,UPI,Wednesday
+ORD00075,2026-05-20,13:00,Masala Maggi,Fast Food,2,55,110,Cash,Wednesday
+ORD00120,2026-05-20,13:35,Ice Cream,Desserts,1,35,35,UPI,Wednesday
+ORD00209,2026-05-20,13:40,Cheese Sandwich,Snacks,1,65,65,Cash,Wednesday
+ORD00945,2026-05-20,16:50,Cold Drink,Beverages,1,35,35,UPI,Wednesday
+ORD00736,2026-05-21,10:15,Veg Sandwich,Snacks,1,40,40,Card,Thursday
+ORD00387,2026-05-21,10:25,Paneer Momos,Snacks,1,70,70,Cash,Thursday
+ORD00270,2026-05-21,11:45,Masala Dosa,Meals,2,95,190,UPI,Thursday
+ORD01450,2026-05-21,12:25,Masala Maggi,Fast Food,2,60,120,UPI,Thursday
+ORD00763,2026-05-21,12:30,Veg Fried Rice,Meals,1,95,95,UPI,Thursday
+ORD00981,2026-05-21,13:20,Cold Coffee,Beverages,1,50,50,UPI,Thursday
+ORD01266,2026-05-21,15:05,Chai,Beverages,1,10,10,Card,Thursday
+ORD00863,2026-05-22,09:05,Chai,Beverages,2,20,40,Cash,Friday
+ORD01173,2026-05-22,11:10,Cheese Maggi,Fast Food,1,70,70,UPI,Friday
+ORD01485,2026-05-22,12:00,Chole Kulche,Meals,1,75,75,UPI,Friday
+ORD00396,2026-05-22,15:15,Chole Kulche,Meals,2,70,140,UPI,Friday
+ORD00157,2026-05-22,16:10,Ice Cream,Desserts,1,50,50,UPI,Friday
+ORD00728,2026-05-22,16:50,French Fries,Snacks,2,65,130,Cash,Friday
+ORD01156,2026-05-22,17:05,Veg Sandwich,Snacks,1,45,45,UPI,Friday
+ORD00704,2026-05-22,17:40,Chole Kulche,Meals,1,70,70,UPI,Friday
+ORD00616,2026-05-22,18:30,Chai,Beverages,1,15,15,UPI,Friday
+ORD00874,2026-05-23,08:30,Chai,Beverages,1,10,10,UPI,Saturday
+ORD01085,2026-05-23,15:10,Idli Sambhar,Meals,1,65,65,UPI,Saturday
+ORD00004,2026-05-23,16:00,Chai,Beverages,1,10,10,UPI,Saturday
+ORD01333,2026-05-23,17:20,Lemon Soda,Beverages,1,25,25,Cash,Saturday
+ORD00933,2026-05-23,18:25,Cheese Burger,Fast Food,1,100,100,UPI,Saturday
+ORD00152,2026-05-24,09:25,Veg Momos,Snacks,3,55,165,UPI,Sunday
+ORD00420,2026-05-24,10:15,Mineral Water,Beverages,1,20,20,Card,Sunday
+ORD01458,2026-05-24,12:55,Veg Chowmein,Fast Food,1,50,50,UPI,Sunday
+ORD00814,2026-05-24,14:05,Veg Fried Rice,Meals,1,90,90,Cash,Sunday
+ORD01110,2026-05-24,15:55,Cheese Burger,Fast Food,2,70,140,Cash,Sunday
+ORD00566,2026-05-25,08:40,Coffee,Beverages,1,30,30,UPI,Monday
+ORD00935,2026-05-25,11:40,Samosa,Snacks,1,25,25,UPI,Monday
+ORD00672,2026-05-25,11:55,Cheese Maggi,Fast Food,1,55,55,UPI,Monday
+ORD01019,2026-05-25,12:00,Chai,Beverages,3,20,60,UPI,Monday
+ORD01489,2026-05-25,16:05,Samosa,Snacks,1,20,20,UPI,Monday
+ORD00415,2026-05-25,16:20,Veg Burger,Fast Food,1,70,70,UPI,Monday
+ORD00097,2026-05-25,18:15,Veg Burger,Fast Food,1,60,60,UPI,Monday
+ORD01251,2026-05-26,10:50,Cold Coffee,Beverages,1,80,80,UPI,Tuesday
+ORD01169,2026-05-26,11:20,Plain Dosa,Meals,1,60,60,UPI,Tuesday
+ORD00956,2026-05-26,12:00,Veg Thali,Meals,2,100,200,UPI,Tuesday
+ORD00659,2026-05-26,13:10,Veg Sandwich,Snacks,1,40,40,Cash,Tuesday
+ORD00859,2026-05-26,13:35,Idli Sambhar,Meals,1,50,50,UPI,Tuesday
+ORD00280,2026-05-26,13:50,Veg Fried Rice,Meals,2,85,170,UPI,Tuesday
+ORD01412,2026-05-26,15:05,Ice Cream,Desserts,1,30,30,UPI,Tuesday
+ORD00582,2026-05-26,15:15,Veg Burger,Fast Food,1,65,65,Cash,Tuesday
+ORD00613,2026-05-26,15:40,Masala Maggi,Fast Food,1,45,45,Cash,Tuesday
+ORD00669,2026-05-26,15:40,Coffee,Beverages,1,35,35,UPI,Tuesday
+ORD00760,2026-05-26,15:55,Idli Sambhar,Meals,2,65,130,UPI,Tuesday
+ORD01292,2026-05-27,14:35,Coffee,Beverages,3,20,60,UPI,Wednesday
+ORD01207,2026-05-27,14:50,Veg Momos,Snacks,1,55,55,Card,Wednesday
+ORD00234,2026-05-27,15:35,Veg Momos,Snacks,2,45,90,UPI,Wednesday
+ORD00550,2026-05-27,17:30,Coffee,Beverages,1,20,20,UPI,Wednesday
+ORD00633,2026-05-28,10:50,Chai,Beverages,1,15,15,Card,Thursday
+ORD00765,2026-05-28,13:25,French Fries,Snacks,4,70,280,UPI,Thursday
+ORD00915,2026-05-28,13:35,Mineral Water,Beverages,1,15,15,Cash,Thursday
+ORD00117,2026-05-28,13:55,Veg Chowmein,Fast Food,3,50,150,UPI,Thursday
+ORD00554,2026-05-28,15:00,Cold Drink,Beverages,1,40,40,Cash,Thursday
+ORD01473,2026-05-28,15:20,Chai,Beverages,1,10,10,Cash,Thursday
+ORD00895,2026-05-28,16:00,Cheese Sandwich,Snacks,1,60,60,UPI,Thursday
+ORD01100,2026-05-29,15:10,Samosa,Snacks,1,20,20,UPI,Friday
+ORD00279,2026-05-29,17:00,Veg Burger,Fast Food,1,70,70,Card,Friday
+ORD00236,2026-05-29,17:10,Idli Sambhar,Meals,1,70,70,Cash,Friday
+ORD00378,2026-05-30,11:20,Cold Drink,Beverages,1,25,25,UPI,Saturday
+ORD00216,2026-05-30,13:45,Cheese Burger,Fast Food,1,90,90,UPI,Saturday
+ORD00416,2026-05-30,14:20,Chai,Beverages,1,10,10,UPI,Saturday
+ORD00538,2026-05-30,14:25,Idli Sambhar,Meals,2,45,90,Cash,Saturday
+ORD01253,2026-05-30,15:30,Samosa,Snacks,1,20,20,Cash,Saturday
+ORD00654,2026-05-30,15:45,Plain Dosa,Meals,2,70,140,Card,Saturday
+ORD01500,2026-05-31,09:30,Veg Sandwich,Snacks,1,35,35,UPI,Sunday
+ORD01079,2026-05-31,14:10,Veg Sandwich,Snacks,1,50,50,Cash,Sunday
+ORD00685,2026-05-31,14:35,Veg Momos,Snacks,1,45,45,UPI,Sunday
+ORD01274,2026-05-31,15:35,Veg Sandwich,Snacks,1,50,50,Card,Sunday
+ORD00138,2026-06-01,08:50,Masala Maggi,Fast Food,1,40,40,Cash,Monday
+ORD00552,2026-06-01,11:40,Samosa,Snacks,1,20,20,Cash,Monday
+ORD00142,2026-06-01,12:30,Veg Momos,Snacks,2,45,90,Cash,Monday
+ORD01028,2026-06-01,14:40,Bread Pakora,Snacks,1,20,20,UPI,Monday
+ORD00144,2026-06-01,16:25,Coffee,Beverages,3,35,105,UPI,Monday
+ORD00576,2026-06-01,18:10,Veg Burger,Fast Food,2,80,160,Cash,Monday
+ORD00492,2026-06-02,11:40,Chai,Beverages,2,10,20,Cash,Tuesday
+ORD00759,2026-06-02,12:05,Samosa,Snacks,4,20,80,UPI,Tuesday
+ORD01093,2026-06-02,12:25,Veg Sandwich,Snacks,1,45,45,Card,Tuesday
+ORD00501,2026-06-02,13:10,Veg Sandwich,Snacks,1,40,40,Card,Tuesday
+ORD01022,2026-06-02,14:30,Chai,Beverages,2,15,30,UPI,Tuesday
+ORD00269,2026-06-02,16:55,Veg Momos,Snacks,1,55,55,UPI,Tuesday
+ORD00706,2026-06-03,10:30,Chole Kulche,Meals,2,55,110,Cash,Wednesday
+ORD00468,2026-06-03,10:55,Samosa,Snacks,2,25,50,Cash,Wednesday
+ORD00428,2026-06-03,11:10,Samosa,Snacks,2,20,40,UPI,Wednesday
+ORD00039,2026-06-03,13:05,Samosa,Snacks,4,25,100,Card,Wednesday
+ORD00967,2026-06-03,13:40,Veg Burger,Fast Food,1,65,65,Cash,Wednesday
+ORD00058,2026-06-03,14:50,Masala Maggi,Fast Food,1,55,55,UPI,Wednesday
+ORD01210,2026-06-03,15:10,Chole Kulche,Meals,1,55,55,UPI,Wednesday
+ORD00703,2026-06-04,08:15,Veg Momos,Snacks,1,50,50,Cash,Thursday
+ORD00922,2026-06-04,11:55,Masala Dosa,Meals,1,80,80,UPI,Thursday
+ORD00447,2026-06-04,12:10,Chai,Beverages,2,15,30,Card,Thursday
+ORD00247,2026-06-04,14:50,Masala Maggi,Fast Food,1,55,55,UPI,Thursday
+ORD00149,2026-06-04,15:05,Veg Sandwich,Snacks,1,35,35,UPI,Thursday
+ORD00574,2026-06-04,15:20,Chai,Beverages,1,15,15,Cash,Thursday
+ORD01239,2026-06-04,16:40,Ice Cream,Desserts,1,45,45,UPI,Thursday
+ORD00084,2026-06-04,16:45,Coffee,Beverages,1,20,20,UPI,Thursday
+ORD01499,2026-06-04,16:45,Veg Chowmein,Fast Food,1,55,55,Cash,Thursday
+ORD00695,2026-06-05,10:15,Brownie,Desserts,1,40,40,UPI,Friday
+ORD01049,2026-06-05,11:40,Samosa,Snacks,1,15,15,UPI,Friday
+ORD01258,2026-06-05,13:10,Chole Kulche,Meals,1,65,65,UPI,Friday
+ORD00949,2026-06-05,15:05,Chai,Beverages,2,20,40,Cash,Friday
+ORD01068,2026-06-05,15:40,Veg Sandwich,Snacks,2,35,70,UPI,Friday
+ORD00818,2026-06-05,15:45,French Fries,Snacks,1,75,75,UPI,Friday
+ORD00746,2026-06-05,16:20,Cheese Maggi,Fast Food,1,70,70,Cash,Friday
+ORD00803,2026-06-05,17:30,Chai,Beverages,4,15,60,UPI,Friday
+ORD00717,2026-06-06,11:25,Aloo Paratha,Meals,1,55,55,Card,Saturday
+ORD00488,2026-06-06,15:55,Plain Dosa,Meals,2,75,150,UPI,Saturday
+ORD00419,2026-06-07,10:40,Ice Cream,Desserts,1,45,45,Card,Sunday
+ORD00021,2026-06-07,11:15,Lemon Soda,Beverages,1,25,25,UPI,Sunday
+ORD01409,2026-06-07,14:05,Idli Sambhar,Meals,4,70,280,UPI,Sunday
+ORD00777,2026-06-07,15:25,Idli Sambhar,Meals,1,55,55,UPI,Sunday
+ORD00853,2026-06-07,16:05,Cheese Maggi,Fast Food,2,60,120,Cash,Sunday
+ORD00908,2026-06-07,18:40,Bread Pakora,Snacks,2,30,60,UPI,Sunday
+ORD01252,2026-06-08,14:55,Veg Sandwich,Snacks,1,50,50,UPI,Monday
+ORD00173,2026-06-08,17:25,Samosa,Snacks,1,15,15,UPI,Monday
+ORD00940,2026-06-09,15:35,Veg Momos,Snacks,1,55,55,Cash,Tuesday
+ORD00287,2026-06-09,15:50,Mineral Water,Beverages,1,20,20,UPI,Tuesday
+ORD01462,2026-06-09,15:50,Cheese Sandwich,Snacks,1,70,70,UPI,Tuesday
+ORD00677,2026-06-09,18:10,Aloo Paratha,Meals,2,40,80,UPI,Tuesday
+ORD00366,2026-06-10,10:20,Veg Sandwich,Snacks,1,45,45,UPI,Wednesday
+ORD00252,2026-06-10,11:10,Veg Chowmein,Fast Food,1,70,70,Cash,Wednesday
+ORD00584,2026-06-10,11:15,Idli Sambhar,Meals,1,70,70,Cash,Wednesday
+ORD01009,2026-06-10,13:10,Veg Burger,Fast Food,2,65,130,UPI,Wednesday
+ORD00182,2026-06-10,14:45,Masala Maggi,Fast Food,1,55,55,UPI,Wednesday
+ORD01497,2026-06-10,14:50,Chai,Beverages,1,15,15,UPI,Wednesday
+ORD01430,2026-06-10,15:35,Coffee,Beverages,1,25,25,Cash,Wednesday
+ORD00555,2026-06-10,18:00,Samosa,Snacks,1,20,20,Cash,Wednesday
+ORD00330,2026-06-11,08:15,Veg Thali,Meals,2,120,240,UPI,Thursday
+ORD00572,2026-06-11,08:50,Veg Sandwich,Snacks,1,35,35,UPI,Thursday
+ORD00632,2026-06-11,13:25,Veg Chowmein,Fast Food,1,50,50,UPI,Thursday
+ORD01231,2026-06-11,16:25,Masala Dosa,Meals,1,95,95,Card,Thursday
+ORD01378,2026-06-11,16:55,Cheese Burger,Fast Food,1,75,75,UPI,Thursday
+ORD00448,2026-06-12,11:40,Idli Sambhar,Meals,2,65,130,UPI,Friday
+ORD00961,2026-06-12,12:30,Veg Burger,Fast Food,2,50,100,UPI,Friday
+ORD00260,2026-06-13,10:45,Chai,Beverages,1,15,15,UPI,Saturday
+ORD00994,2026-06-13,13:55,Veg Sandwich,Snacks,1,40,40,Cash,Saturday
+ORD01443,2026-06-13,15:55,Veg Burger,Fast Food,1,65,65,UPI,Saturday
+ORD00249,2026-06-13,16:25,Ice Cream,Desserts,2,35,70,UPI,Saturday
+ORD00413,2026-06-14,11:55,Veg Burger,Fast Food,1,80,80,UPI,Sunday
+ORD00544,2026-06-14,14:30,Masala Maggi,Fast Food,2,60,120,UPI,Sunday
+ORD00061,2026-06-14,14:35,Masala Dosa,Meals,1,100,100,Cash,Sunday
+ORD00445,2026-06-15,09:10,Veg Thali,Meals,2,100,200,Cash,Monday
+ORD00837,2026-06-15,11:05,French Fries,Snacks,1,50,50,UPI,Monday
+ORD00770,2026-06-15,16:05,Masala Dosa,Meals,1,90,90,UPI,Monday
+ORD00183,2026-06-16,11:45,Cheese Maggi,Fast Food,1,65,65,Cash,Tuesday
+ORD00793,2026-06-16,13:00,Bread Pakora,Snacks,1,20,20,UPI,Tuesday
+ORD00867,2026-06-16,13:55,Masala Dosa,Meals,1,90,90,UPI,Tuesday
+ORD00799,2026-06-16,14:35,Veg Momos,Snacks,1,55,55,UPI,Tuesday
+ORD00339,2026-06-16,17:00,Veg Burger,Fast Food,2,65,130,Cash,Tuesday
+ORD00660,2026-06-16,17:35,Ice Cream,Desserts,2,50,100,UPI,Tuesday
+ORD00334,2026-06-17,09:20,Chai,Beverages,1,15,15,UPI,Wednesday
+ORD01434,2026-06-17,10:05,Chai,Beverages,1,10,10,UPI,Wednesday
+ORD00427,2026-06-17,10:55,Paneer Momos,Snacks,1,70,70,UPI,Wednesday
+ORD00893,2026-06-17,14:50,Idli Sambhar,Meals,1,65,65,UPI,Wednesday
+ORD01395,2026-06-18,09:25,Ice Cream,Desserts,1,45,45,Cash,Thursday
+ORD01015,2026-06-18,09:50,Ice Cream,Desserts,1,30,30,UPI,Thursday
+ORD00344,2026-06-18,13:30,Coffee,Beverages,1,25,25,UPI,Thursday
+ORD00199,2026-06-18,16:50,Idli Sambhar,Meals,4,70,280,Cash,Thursday
+ORD01174,2026-06-18,17:35,Cheese Maggi,Fast Food,1,75,75,UPI,Thursday
+ORD00432,2026-06-19,10:35,Samosa,Snacks,1,25,25,Cash,Friday
+ORD00563,2026-06-19,12:20,Veg Momos,Snacks,1,60,60,Card,Friday
+ORD00328,2026-06-19,14:05,Mineral Water,Beverages,1,15,15,Cash,Friday
+ORD00072,2026-06-19,14:30,Samosa,Snacks,1,20,20,Cash,Friday
+ORD00360,2026-06-19,14:35,Paneer Momos,Snacks,1,75,75,UPI,Friday
+ORD00901,2026-06-19,15:20,Veg Chowmein,Fast Food,3,60,180,Cash,Friday
+ORD01232,2026-06-19,16:00,Cheese Maggi,Fast Food,2,70,140,Cash,Friday
+ORD00775,2026-06-19,16:25,Bread Pakora,Snacks,1,20,20,UPI,Friday
+ORD01307,2026-06-19,17:10,Masala Dosa,Meals,3,95,285,Card,Friday
+ORD01358,2026-06-20,10:50,Cold Drink,Beverages,1,40,40,UPI,Saturday
+ORD00155,2026-06-20,11:10,Chai,Beverages,1,10,10,UPI,Saturday
+ORD00045,2026-06-20,16:50,Ice Cream,Desserts,2,35,70,UPI,Saturday
+ORD01475,2026-06-20,17:10,Brownie,Desserts,1,55,55,Card,Saturday
+ORD01004,2026-06-20,17:35,Mineral Water,Beverages,1,15,15,UPI,Saturday
+ORD01480,2026-06-20,17:50,Cold Coffee,Beverages,1,80,80,Cash,Saturday
+ORD00885,2026-06-21,11:05,Plain Dosa,Meals,2,85,170,Card,Sunday
+ORD00453,2026-06-21,13:20,Veg Momos,Snacks,1,40,40,Cash,Sunday
+ORD01136,2026-06-21,15:30,Veg Burger,Fast Food,1,50,50,UPI,Sunday
+ORD00865,2026-06-21,15:35,Samosa,Snacks,1,25,25,UPI,Sunday
+ORD01121,2026-06-21,16:15,Veg Sandwich,Snacks,3,40,120,Cash,Sunday
+ORD00005,2026-06-22,10:30,Veg Sandwich,Snacks,1,45,45,Cash,Monday
+ORD00384,2026-06-22,14:10,Chole Kulche,Meals,2,65,130,Cash,Monday
+ORD01449,2026-06-22,15:05,Veg Chowmein,Fast Food,2,80,160,Cash,Monday
+ORD01189,2026-06-22,16:50,Masala Dosa,Meals,3,85,255,UPI,Monday
+ORD00528,2026-06-23,14:55,Idli Sambhar,Meals,1,45,45,Cash,Tuesday
+ORD01346,2026-06-23,16:05,Veg Momos,Snacks,2,55,110,Cash,Tuesday
+ORD00220,2026-06-23,16:10,Coffee,Beverages,3,35,105,UPI,Tuesday
+ORD00845,2026-06-24,10:35,Chai,Beverages,1,15,15,UPI,Wednesday
+ORD01461,2026-06-24,11:45,Chai,Beverages,2,20,40,Cash,Wednesday
+ORD01090,2026-06-24,13:30,Samosa,Snacks,1,25,25,UPI,Wednesday
+ORD01067,2026-06-24,16:10,Samosa,Snacks,1,25,25,UPI,Wednesday
+ORD00872,2026-06-25,11:20,Veg Thali,Meals,1,100,100,UPI,Thursday
+ORD00457,2026-06-25,11:30,Cheese Sandwich,Snacks,1,50,50,Cash,Thursday
+ORD00495,2026-06-25,15:15,Masala Dosa,Meals,2,105,210,Cash,Thursday
+ORD01104,2026-06-25,15:55,Cheese Maggi,Fast Food,1,60,60,UPI,Thursday
+ORD01401,2026-06-25,18:20,Cheese Sandwich,Snacks,3,60,180,UPI,Thursday
+ORD00545,2026-06-25,18:35,Coffee,Beverages,1,25,25,Cash,Thursday
+ORD00825,2026-06-26,09:20,Chai,Beverages,1,10,10,UPI,Friday
+ORD00094,2026-06-26,13:55,Chole Kulche,Meals,1,60,60,UPI,Friday
+ORD00271,2026-06-26,18:10,Veg Burger,Fast Food,3,60,180,UPI,Friday
+ORD00640,2026-06-27,12:50,Chai,Beverages,3,15,45,UPI,Saturday
+ORD01044,2026-06-27,13:30,Samosa,Snacks,2,20,40,UPI,Saturday
+ORD01159,2026-06-27,16:30,Cold Drink,Beverages,1,25,25,Cash,Saturday
+ORD00452,2026-06-27,18:10,Aloo Paratha,Meals,2,40,80,Cash,Saturday
+ORD00627,2026-06-27,18:20,Veg Momos,Snacks,1,45,45,UPI,Saturday
+ORD00186,2026-06-28,12:50,Coffee,Beverages,1,25,25,UPI,Sunday
+ORD01302,2026-06-29,17:10,Masala Maggi,Fast Food,1,40,40,UPI,Monday
+ORD00376,2026-06-29,17:45,Aloo Paratha,Meals,1,45,45,Cash,Monday
+ORD01387,2026-06-30,10:10,Idli Sambhar,Meals,1,60,60,UPI,Tuesday
+ORD01153,2026-06-30,11:00,Cheese Maggi,Fast Food,1,75,75,UPI,Tuesday
+ORD00140,2026-06-30,11:15,Aloo Paratha,Meals,1,45,45,Cash,Tuesday
+ORD01275,2026-06-30,15:40,Veg Momos,Snacks,1,40,40,UPI,Tuesday
+ORD00817,2026-06-30,18:20,Veg Burger,Fast Food,1,50,50,UPI,Tuesday
+ORD00009,2026-07-01,11:20,Idli Sambhar,Meals,1,70,70,UPI,Wednesday
+ORD00325,2026-07-01,11:30,Bread Pakora,Snacks,1,25,25,UPI,Wednesday
+ORD01467,2026-07-01,13:10,Masala Maggi,Fast Food,1,55,55,UPI,Wednesday
+ORD00829,2026-07-01,18:30,Aloo Paratha,Meals,1,50,50,UPI,Wednesday
+ORD00705,2026-07-02,10:20,Masala Maggi,Fast Food,1,60,60,UPI,Thursday
+ORD01192,2026-07-02,12:00,Masala Maggi,Fast Food,1,50,50,UPI,Thursday
+ORD01261,2026-07-02,18:10,Cold Drink,Beverages,3,25,75,Cash,Thursday
+ORD00561,2026-07-03,09:55,Veg Burger,Fast Food,3,55,165,UPI,Friday
+ORD00048,2026-07-03,11:15,Masala Dosa,Meals,2,90,180,Cash,Friday
+ORD01425,2026-07-03,11:50,Mineral Water,Beverages,1,20,20,Cash,Friday
+ORD00844,2026-07-03,12:20,Masala Maggi,Fast Food,1,40,40,Cash,Friday
+ORD00314,2026-07-03,12:25,Veg Chowmein,Fast Food,1,65,65,Cash,Friday
+ORD00496,2026-07-03,14:10,Cold Coffee,Beverages,1,70,70,UPI,Friday
+ORD00847,2026-07-03,14:50,Cheese Maggi,Fast Food,1,60,60,UPI,Friday
+ORD01023,2026-07-03,15:25,Veg Chowmein,Fast Food,1,65,65,UPI,Friday
+ORD00509,2026-07-03,16:10,Cold Drink,Beverages,1,40,40,UPI,Friday
+ORD00217,2026-07-04,09:40,Veg Fried Rice,Meals,3,100,300,UPI,Saturday
+ORD00907,2026-07-04,13:55,Cold Coffee,Beverages,1,60,60,UPI,Saturday
+ORD00286,2026-07-04,15:00,Masala Dosa,Meals,1,95,95,UPI,Saturday
+ORD00482,2026-07-04,15:20,Masala Maggi,Fast Food,1,55,55,UPI,Saturday
+ORD00939,2026-07-04,15:40,Chai,Beverages,1,10,10,UPI,Saturday
+ORD01035,2026-07-04,15:55,Masala Dosa,Meals,1,110,110,UPI,Saturday
+ORD01047,2026-07-04,16:10,Aloo Paratha,Meals,1,50,50,UPI,Saturday
+ORD00724,2026-07-04,17:00,Veg Burger,Fast Food,1,75,75,UPI,Saturday
+ORD01008,2026-07-04,17:20,Mineral Water,Beverages,1,20,20,UPI,Saturday
+ORD00615,2026-07-05,10:30,Plain Dosa,Meals,1,70,70,UPI,Sunday
+ORD01217,2026-07-05,15:50,Samosa,Snacks,1,25,25,UPI,Sunday
+ORD00007,2026-07-05,15:55,Bread Pakora,Snacks,1,30,30,UPI,Sunday
+ORD01056,2026-07-06,12:10,Veg Sandwich,Snacks,1,40,40,UPI,Monday
+ORD01463,2026-07-06,12:35,Cold Coffee,Beverages,1,70,70,UPI,Monday
+ORD00883,2026-07-06,17:05,Masala Maggi,Fast Food,1,55,55,UPI,Monday
+ORD00446,2026-07-06,18:25,Idli Sambhar,Meals,1,70,70,UPI,Monday
+ORD00143,2026-07-07,14:20,Coffee,Beverages,2,30,60,Card,Tuesday
+ORD01390,2026-07-07,14:45,Cold Drink,Beverages,1,35,35,UPI,Tuesday
+ORD00998,2026-07-08,11:45,Veg Sandwich,Snacks,2,50,100,Card,Wednesday
+ORD00153,2026-07-08,14:50,Cheese Burger,Fast Food,1,85,85,Card,Wednesday
+ORD00085,2026-07-09,09:50,Cheese Burger,Fast Food,1,100,100,UPI,Thursday
+ORD00898,2026-07-09,11:40,Idli Sambhar,Meals,1,70,70,UPI,Thursday
+ORD00175,2026-07-09,12:25,Chai,Beverages,1,20,20,Cash,Thursday
+ORD00880,2026-07-09,15:55,Aloo Paratha,Meals,1,40,40,Cash,Thursday
+ORD00822,2026-07-09,16:20,Chai,Beverages,1,10,10,Cash,Thursday
+ORD00464,2026-07-09,17:25,Veg Momos,Snacks,1,40,40,UPI,Thursday
+ORD01322,2026-07-10,11:20,Veg Momos,Snacks,1,55,55,UPI,Friday
+ORD00887,2026-07-10,12:35,Veg Chowmein,Fast Food,1,80,80,Cash,Friday
+ORD00899,2026-07-10,13:10,Veg Fried Rice,Meals,2,70,140,UPI,Friday
+ORD00700,2026-07-10,13:50,Masala Maggi,Fast Food,1,50,50,UPI,Friday
+ORD01280,2026-07-10,14:50,Coffee,Beverages,1,25,25,UPI,Friday
+ORD00870,2026-07-11,10:55,Veg Momos,Snacks,3,50,150,UPI,Saturday
+ORD00024,2026-07-11,13:40,Cheese Maggi,Fast Food,1,60,60,UPI,Saturday
+ORD01200,2026-07-11,14:15,Cheese Sandwich,Snacks,1,55,55,Cash,Saturday
+ORD01149,2026-07-11,14:35,Veg Momos,Snacks,1,50,50,Card,Saturday
+ORD01452,2026-07-11,18:05,Samosa,Snacks,2,15,30,Card,Saturday
+ORD00911,2026-07-12,10:30,Aloo Paratha,Meals,1,50,50,Cash,Sunday
+ORD00083,2026-07-12,12:55,Veg Momos,Snacks,1,60,60,UPI,Sunday
+ORD00335,2026-07-12,13:50,Veg Thali,Meals,1,120,120,Cash,Sunday
+ORD00776,2026-07-12,15:10,Chole Kulche,Meals,1,65,65,Cash,Sunday
+ORD00597,2026-07-12,15:25,Veg Thali,Meals,1,95,95,Cash,Sunday
+ORD00835,2026-07-12,15:50,Chole Kulche,Meals,2,55,110,UPI,Sunday
+ORD00858,2026-07-12,16:00,Lemon Soda,Beverages,1,25,25,UPI,Sunday
+ORD00684,2026-07-13,12:10,Paneer Momos,Snacks,1,60,60,UPI,Monday
+ORD00124,2026-07-13,13:25,Cold Coffee,Beverages,1,75,75,UPI,Monday
+ORD00327,2026-07-13,14:00,Aloo Paratha,Meals,1,45,45,Cash,Monday
+ORD01483,2026-07-13,15:20,Lemon Soda,Beverages,3,40,120,Cash,Monday
+ORD00310,2026-07-13,15:45,Samosa,Snacks,1,15,15,Cash,Monday
+ORD01426,2026-07-13,16:50,Samosa,Snacks,2,15,30,Cash,Monday
+ORD01284,2026-07-13,18:05,Veg Momos,Snacks,1,50,50,Cash,Monday
+ORD01371,2026-07-13,18:10,Chai,Beverages,1,15,15,UPI,Monday
+ORD01397,2026-07-14,09:25,Chai,Beverages,1,15,15,UPI,Tuesday
+ORD00264,2026-07-14,10:50,Paneer Momos,Snacks,3,80,240,UPI,Tuesday
+ORD01298,2026-07-14,11:05,Veg Burger,Fast Food,1,75,75,UPI,Tuesday
+ORD00078,2026-07-14,11:30,French Fries,Snacks,1,50,50,Cash,Tuesday
+ORD00800,2026-07-14,12:50,Plain Dosa,Meals,1,60,60,UPI,Tuesday
+ORD01101,2026-07-14,18:50,Veg Momos,Snacks,1,60,60,UPI,Tuesday
+ORD00710,2026-07-15,09:40,Samosa,Snacks,1,25,25,UPI,Wednesday
+ORD01278,2026-07-15,15:10,Masala Maggi,Fast Food,3,40,120,Cash,Wednesday
+ORD00828,2026-07-15,15:40,Masala Dosa,Meals,1,80,80,UPI,Wednesday
+ORD01245,2026-07-15,15:40,Brownie,Desserts,2,55,110,UPI,Wednesday
+ORD00306,2026-07-15,16:25,Idli Sambhar,Meals,1,60,60,UPI,Wednesday
+ORD01447,2026-07-16,11:00,French Fries,Snacks,2,75,150,UPI,Thursday
+ORD01439,2026-07-16,13:45,Cheese Burger,Fast Food,2,95,190,UPI,Thursday
+ORD00507,2026-07-16,14:20,Cheese Sandwich,Snacks,1,50,50,UPI,Thursday
+ORD01003,2026-07-16,15:55,Veg Thali,Meals,1,95,95,UPI,Thursday
+ORD01350,2026-07-16,15:55,Coffee,Beverages,1,20,20,Card,Thursday
+ORD00137,2026-07-16,16:05,Paneer Momos,Snacks,1,80,80,UPI,Thursday
+ORD00251,2026-07-16,17:30,Paneer Momos,Snacks,2,65,130,Card,Thursday
+ORD00485,2026-07-17,09:45,Chai,Beverages,2,10,20,Cash,Friday
+ORD00696,2026-07-17,11:40,Plain Dosa,Meals,1,80,80,UPI,Friday
+ORD01493,2026-07-17,13:05,Mineral Water,Beverages,1,20,20,UPI,Friday
+ORD01384,2026-07-18,11:45,Aloo Paratha,Meals,1,45,45,UPI,Saturday
+ORD00195,2026-07-18,13:25,Masala Dosa,Meals,2,80,160,UPI,Saturday
+ORD00595,2026-07-18,14:35,Lemon Soda,Beverages,3,25,75,Cash,Saturday
+ORD00472,2026-07-18,14:40,Veg Burger,Fast Food,1,60,60,UPI,Saturday
+ORD00782,2026-07-18,15:40,Veg Sandwich,Snacks,2,45,90,UPI,Saturday
+ORD01066,2026-07-19,15:55,Lemon Soda,Beverages,1,35,35,UPI,Sunday
+ORD01403,2026-07-19,16:40,Chai,Beverages,1,20,20,UPI,Sunday
+ORD00980,2026-07-19,16:55,Paneer Momos,Snacks,1,75,75,UPI,Sunday
+ORD01040,2026-07-20,09:00,Veg Sandwich,Snacks,3,50,150,Cash,Monday
+ORD00198,2026-07-20,10:55,Cold Drink,Beverages,1,35,35,Cash,Monday
+ORD00590,2026-07-20,11:45,Chai,Beverages,1,15,15,UPI,Monday
+ORD00398,2026-07-20,12:00,Chai,Beverages,1,10,10,UPI,Monday
+ORD01256,2026-07-20,12:40,Chai,Beverages,1,15,15,UPI,Monday
+ORD00842,2026-07-20,14:40,Idli Sambhar,Meals,1,60,60,UPI,Monday
+ORD01166,2026-07-20,18:15,Cold Drink,Beverages,1,25,25,UPI,Monday
+ORD01437,2026-07-21,10:45,Veg Burger,Fast Food,1,80,80,Cash,Tuesday
+ORD01300,2026-07-21,11:20,Cold Drink,Beverages,2,25,50,Cash,Tuesday
+ORD00380,2026-07-21,14:45,Aloo Paratha,Meals,1,55,55,UPI,Tuesday
+ORD00423,2026-07-21,15:55,Veg Burger,Fast Food,1,65,65,UPI,Tuesday
+ORD00806,2026-07-21,15:55,Masala Maggi,Fast Food,1,55,55,UPI,Tuesday
+ORD01416,2026-07-22,08:25,Chai,Beverages,1,20,20,Cash,Wednesday
+ORD00146,2026-07-22,08:40,Veg Sandwich,Snacks,1,45,45,Cash,Wednesday
+ORD01339,2026-07-22,10:15,Chai,Beverages,1,15,15,Cash,Wednesday
+ORD01005,2026-07-22,15:10,Brownie,Desserts,1,60,60,UPI,Wednesday
+ORD00702,2026-07-23,08:00,Ice Cream,Desserts,1,50,50,UPI,Thursday
+ORD00232,2026-07-23,12:20,Paneer Momos,Snacks,1,60,60,UPI,Thursday
+ORD01208,2026-07-23,12:35,Cheese Maggi,Fast Food,1,75,75,UPI,Thursday
+ORD01223,2026-07-23,15:00,Ice Cream,Desserts,1,45,45,UPI,Thursday
+ORD00618,2026-07-23,16:50,Veg Sandwich,Snacks,1,40,40,Cash,Thursday
+ORD00313,2026-07-23,17:40,Veg Burger,Fast Food,1,60,60,UPI,Thursday
+ORD01020,2026-07-24,11:15,Brownie,Desserts,1,55,55,Cash,Friday
+ORD01309,2026-07-24,14:55,Cold Coffee,Beverages,1,65,65,Card,Friday
+ORD00476,2026-07-25,09:25,Masala Dosa,Meals,2,80,160,Cash,Saturday
+ORD00855,2026-07-25,12:50,Chole Kulche,Meals,1,55,55,UPI,Saturday
+ORD01330,2026-07-25,15:15,Veg Momos,Snacks,1,45,45,UPI,Saturday
+ORD00622,2026-07-25,15:40,French Fries,Snacks,1,70,70,UPI,Saturday
+ORD00032,2026-07-25,17:10,Masala Maggi,Fast Food,1,55,55,UPI,Saturday
+ORD00029,2026-07-26,15:05,Paneer Momos,Snacks,1,65,65,UPI,Sunday
+ORD00493,2026-07-26,15:50,Veg Sandwich,Snacks,1,35,35,UPI,Sunday
+ORD00532,2026-07-26,16:05,Cheese Maggi,Fast Food,1,75,75,UPI,Sunday
+ORD01164,2026-07-26,16:55,Veg Fried Rice,Meals,1,80,80,UPI,Sunday
+ORD00850,2026-07-27,10:50,Masala Dosa,Meals,3,95,285,Cash,Monday
+ORD00653,2026-07-27,16:05,Bread Pakora,Snacks,1,25,25,UPI,Monday
+ORD01373,2026-07-27,16:10,Samosa,Snacks,1,20,20,UPI,Monday
+ORD00742,2026-07-27,16:45,Chai,Beverages,2,15,30,UPI,Monday
+ORD00946,2026-07-27,18:40,French Fries,Snacks,1,80,80,UPI,Monday
+ORD00425,2026-07-28,10:25,Brownie,Desserts,1,45,45,UPI,Tuesday
+ORD01092,2026-07-28,15:00,Aloo Paratha,Meals,1,50,50,Cash,Tuesday
+ORD00988,2026-07-28,16:20,Cold Coffee,Beverages,2,80,160,UPI,Tuesday
+ORD01379,2026-07-28,17:40,Veg Sandwich,Snacks,1,40,40,Cash,Tuesday
+ORD00977,2026-07-28,17:50,Plain Dosa,Meals,1,60,60,Cash,Tuesday
+ORD00049,2026-07-28,18:55,Cheese Sandwich,Snacks,2,55,110,Card,Tuesday
+ORD00539,2026-07-29,10:45,Veg Momos,Snacks,2,40,80,UPI,Wednesday
+ORD01084,2026-07-29,12:30,Cheese Burger,Fast Food,3,70,210,Cash,Wednesday
+ORD00349,2026-07-29,15:10,Aloo Paratha,Meals,1,45,45,UPI,Wednesday
+ORD00125,2026-07-30,09:55,Veg Chowmein,Fast Food,1,80,80,Card,Thursday
+ORD01413,2026-07-30,10:55,Chai,Beverages,1,20,20,UPI,Thursday
+ORD01194,2026-07-30,12:45,Veg Chowmein,Fast Food,1,50,50,Cash,Thursday
+ORD00958,2026-07-30,12:50,Paneer Momos,Snacks,1,65,65,UPI,Thursday
+ORD01498,2026-07-30,13:40,Samosa,Snacks,1,20,20,UPI,Thursday
+ORD00133,2026-07-30,14:10,Cheese Sandwich,Snacks,1,50,50,UPI,Thursday
+ORD00394,2026-07-30,15:35,Cold Coffee,Beverages,2,50,100,UPI,Thursday
+ORD00812,2026-07-30,17:45,Masala Maggi,Fast Food,1,40,40,Cash,Thursday
+ORD01029,2026-07-31,10:50,Chai,Beverages,1,15,15,UPI,Friday
+ORD00796,2026-07-31,11:15,Chole Kulche,Meals,1,65,65,UPI,Friday
+ORD00716,2026-07-31,13:25,Veg Momos,Snacks,1,50,50,UPI,Friday
+ORD01457,2026-07-31,15:50,Veg Sandwich,Snacks,1,40,40,Cash,Friday
+ORD00824,2026-07-31,16:15,Plain Dosa,Meals,1,85,85,UPI,Friday
+ORD00989,2026-07-31,17:25,Chai,Beverages,2,10,20,Cash,Friday
+ORD01059,2026-07-31,17:35,Cold Drink,Beverages,3,35,105,UPI,Friday
+ORD00308,2026-07-31,18:40,Veg Fried Rice,Meals,1,85,85,UPI,Friday
+ORD01349,2026-08-01,10:15,Samosa,Snacks,1,20,20,UPI,Saturday
+ORD00122,2026-08-01,12:40,French Fries,Snacks,1,50,50,UPI,Saturday
+ORD01058,2026-08-01,12:50,Paneer Momos,Snacks,1,80,80,Cash,Saturday
+ORD01202,2026-08-01,15:20,Chai,Beverages,2,10,20,UPI,Saturday
+ORD00694,2026-08-01,16:55,Samosa,Snacks,1,25,25,UPI,Saturday
+ORD01213,2026-08-01,18:55,Masala Maggi,Fast Food,1,55,55,UPI,Saturday
+ORD01162,2026-08-02,11:35,Cold Coffee,Beverages,1,50,50,UPI,Sunday
+ORD01224,2026-08-02,14:50,Veg Burger,Fast Food,1,65,65,Cash,Sunday
+ORD00102,2026-08-02,15:45,Veg Momos,Snacks,1,60,60,UPI,Sunday
+ORD00262,2026-08-02,15:55,Lemon Soda,Beverages,1,25,25,Cash,Sunday
+ORD00709,2026-08-02,17:05,Cold Coffee,Beverages,2,55,110,Card,Sunday
+ORD00278,2026-08-02,17:10,Cold Drink,Beverages,4,25,100,UPI,Sunday
+ORD00494,2026-08-03,13:55,Samosa,Snacks,4,25,100,Cash,Monday
+ORD01327,2026-08-03,14:40,Chai,Beverages,1,10,10,Cash,Monday
+ORD00074,2026-08-03,14:55,Veg Fried Rice,Meals,2,90,180,UPI,Monday
+ORD00367,2026-08-03,15:45,Masala Maggi,Fast Food,1,45,45,UPI,Monday
+ORD00467,2026-08-03,18:50,Cold Coffee,Beverages,1,65,65,UPI,Monday
+ORD00296,2026-08-04,12:30,Cheese Maggi,Fast Food,1,70,70,Cash,Tuesday
+ORD01118,2026-08-04,14:25,Samosa,Snacks,1,15,15,Cash,Tuesday
+ORD01130,2026-08-04,14:45,Cheese Maggi,Fast Food,1,60,60,UPI,Tuesday
+ORD00646,2026-08-04,14:50,Veg Chowmein,Fast Food,1,75,75,UPI,Tuesday
+ORD00960,2026-08-05,14:30,French Fries,Snacks,1,75,75,UPI,Wednesday
+ORD00668,2026-08-05,15:40,Chai,Beverages,2,20,40,Cash,Wednesday
+ORD00033,2026-08-05,15:55,Ice Cream,Desserts,1,50,50,UPI,Wednesday
+ORD00350,2026-08-05,16:05,Cheese Maggi,Fast Food,1,75,75,UPI,Wednesday
+ORD00169,2026-08-05,17:55,Samosa,Snacks,1,20,20,UPI,Wednesday
+ORD00023,2026-08-05,18:40,Chai,Beverages,1,20,20,UPI,Wednesday
+ORD01099,2026-08-05,18:40,Cheese Maggi,Fast Food,2,55,110,Card,Wednesday
+ORD01353,2026-08-06,10:50,Masala Dosa,Meals,2,100,200,UPI,Thursday
+ORD00810,2026-08-06,15:35,Veg Chowmein,Fast Food,2,70,140,UPI,Thursday
+ORD01295,2026-08-06,15:55,Cheese Burger,Fast Food,1,95,95,Card,Thursday
+ORD00227,2026-08-07,10:35,Cheese Burger,Fast Food,2,70,140,Cash,Friday
+ORD00162,2026-08-07,15:35,Chai,Beverages,1,15,15,UPI,Friday
+ORD00698,2026-08-07,17:10,Chai,Beverages,1,20,20,UPI,Friday
+ORD00077,2026-08-08,10:35,Veg Momos,Snacks,1,50,50,UPI,Saturday
+ORD00611,2026-08-08,11:35,Chai,Beverages,1,15,15,Cash,Saturday
+ORD00103,2026-08-08,12:45,Samosa,Snacks,1,25,25,Cash,Saturday
+ORD01311,2026-08-08,18:55,Samosa,Snacks,1,20,20,Cash,Saturday
+ORD00354,2026-08-09,10:05,French Fries,Snacks,2,70,140,Cash,Sunday
+ORD00255,2026-08-09,10:20,Chai,Beverages,1,15,15,UPI,Sunday
+ORD01419,2026-08-09,11:30,Veg Momos,Snacks,2,55,110,UPI,Sunday
+ORD00028,2026-08-09,12:30,Cheese Maggi,Fast Food,1,55,55,UPI,Sunday
+ORD00797,2026-08-09,16:30,Chole Kulche,Meals,1,60,60,Cash,Sunday
+ORD01125,2026-08-10,09:50,Samosa,Snacks,1,15,15,UPI,Monday
+ORD00361,2026-08-10,12:55,Aloo Paratha,Meals,1,45,45,UPI,Monday
+ORD01154,2026-08-10,13:35,Veg Burger,Fast Food,1,65,65,UPI,Monday
+ORD01486,2026-08-10,16:45,Brownie,Desserts,1,50,50,Card,Monday
+ORD01438,2026-08-10,17:30,Veg Thali,Meals,2,110,220,Cash,Monday
+ORD00086,2026-08-10,18:50,Lemon Soda,Beverages,1,40,40,UPI,Monday
+ORD00459,2026-08-11,10:05,Veg Burger,Fast Food,1,55,55,UPI,Tuesday
+ORD00621,2026-08-11,10:20,Veg Momos,Snacks,1,40,40,Cash,Tuesday
+ORD00228,2026-08-11,11:00,Bread Pakora,Snacks,1,30,30,UPI,Tuesday
+ORD01267,2026-08-11,12:10,Veg Sandwich,Snacks,1,35,35,Cash,Tuesday
+ORD01281,2026-08-11,12:45,Paneer Momos,Snacks,1,70,70,UPI,Tuesday
+ORD01025,2026-08-11,15:05,Samosa,Snacks,3,20,60,Cash,Tuesday
+ORD00422,2026-08-11,15:10,Paneer Momos,Snacks,2,70,140,Card,Tuesday
+ORD01262,2026-08-11,18:50,Chai,Beverages,1,10,10,UPI,Tuesday
+ORD01453,2026-08-12,11:05,Veg Momos,Snacks,2,50,100,UPI,Wednesday
+ORD00963,2026-08-12,11:50,Cold Coffee,Beverages,1,80,80,Cash,Wednesday
+ORD01494,2026-08-12,15:25,Coffee,Beverages,1,25,25,UPI,Wednesday
+ORD00224,2026-08-12,17:55,Cheese Maggi,Fast Food,1,70,70,UPI,Wednesday
+ORD00204,2026-08-13,09:25,Masala Dosa,Meals,3,85,255,UPI,Thursday
+ORD00108,2026-08-13,10:55,Veg Burger,Fast Food,3,65,195,UPI,Thursday
+ORD00741,2026-08-13,17:35,Masala Dosa,Meals,1,110,110,UPI,Thursday
+ORD00194,2026-08-13,18:40,Veg Fried Rice,Meals,1,75,75,Cash,Thursday
+ORD01010,2026-08-14,09:10,Samosa,Snacks,1,15,15,UPI,Friday
+ORD00189,2026-08-14,09:35,Aloo Paratha,Meals,1,50,50,UPI,Friday
+ORD00127,2026-08-14,10:35,Samosa,Snacks,1,15,15,Cash,Friday
+ORD00248,2026-08-14,13:35,Veg Momos,Snacks,1,60,60,Cash,Friday
+ORD00374,2026-08-14,14:30,Veg Sandwich,Snacks,1,40,40,Card,Friday
+ORD01075,2026-08-14,15:35,Chai,Beverages,2,15,30,UPI,Friday
+ORD00909,2026-08-15,11:55,Brownie,Desserts,2,55,110,Cash,Saturday
+ORD00177,2026-08-15,13:15,Chai,Beverages,1,10,10,Cash,Saturday
+ORD00840,2026-08-15,15:05,Samosa,Snacks,1,15,15,UPI,Saturday
+ORD01204,2026-08-15,15:05,Cold Coffee,Beverages,3,50,150,Card,Saturday
+ORD01065,2026-08-15,15:50,Masala Maggi,Fast Food,2,45,90,UPI,Saturday
+ORD00068,2026-08-15,15:55,Lemon Soda,Beverages,2,40,80,Cash,Saturday
+ORD00272,2026-08-15,15:55,Veg Chowmein,Fast Food,2,55,110,UPI,Saturday
+ORD00556,2026-08-15,16:50,Idli Sambhar,Meals,1,70,70,Cash,Saturday
+ORD01201,2026-08-16,16:25,Veg Sandwich,Snacks,1,45,45,UPI,Sunday
+ORD01039,2026-08-16,18:35,Samosa,Snacks,1,20,20,UPI,Sunday
+ORD00235,2026-08-16,18:50,Brownie,Desserts,1,50,50,UPI,Sunday
+ORD00754,2026-08-17,11:10,Veg Sandwich,Snacks,3,40,120,UPI,Monday
+ORD01123,2026-08-17,15:05,Ice Cream,Desserts,1,30,30,Cash,Monday
+ORD00789,2026-08-17,15:20,Veg Burger,Fast Food,1,55,55,Cash,Monday
+ORD01271,2026-08-17,16:05,Samosa,Snacks,1,25,25,UPI,Monday
+ORD00285,2026-08-17,16:25,Veg Burger,Fast Food,1,75,75,UPI,Monday
+ORD00205,2026-08-18,11:15,Veg Burger,Fast Food,2,80,160,Cash,Tuesday
+ORD00375,2026-08-19,11:05,Cheese Maggi,Fast Food,2,55,110,UPI,Wednesday
+ORD01391,2026-08-19,11:50,Samosa,Snacks,1,25,25,Cash,Wednesday
+ORD00860,2026-08-19,13:10,Aloo Paratha,Meals,1,40,40,Cash,Wednesday
+ORD01083,2026-08-19,15:10,Cold Coffee,Beverages,1,60,60,Cash,Wednesday
+ORD00210,2026-08-19,17:00,Masala Maggi,Fast Food,1,55,55,UPI,Wednesday
+ORD00849,2026-08-19,18:00,Samosa,Snacks,1,15,15,Cash,Wednesday
+ORD00537,2026-08-20,10:50,Veg Momos,Snacks,1,50,50,Cash,Thursday
+ORD00358,2026-08-20,12:20,Samosa,Snacks,1,25,25,Cash,Thursday
+ORD01018,2026-08-20,12:55,Ice Cream,Desserts,1,50,50,Cash,Thursday
+ORD00744,2026-08-20,13:00,Lemon Soda,Beverages,1,30,30,UPI,Thursday
+ORD00778,2026-08-20,16:20,Veg Momos,Snacks,1,50,50,UPI,Thursday
+ORD00154,2026-08-21,10:15,Plain Dosa,Meals,3,80,240,UPI,Friday
+ORD01211,2026-08-21,11:40,Aloo Paratha,Meals,1,40,40,Cash,Friday
+ORD01127,2026-08-21,12:30,Lemon Soda,Beverages,1,25,25,Card,Friday
+ORD01017,2026-08-21,15:20,Veg Thali,Meals,1,90,90,UPI,Friday
+ORD00968,2026-08-21,15:40,Veg Momos,Snacks,1,40,40,UPI,Friday
+ORD00386,2026-08-22,08:30,Veg Momos,Snacks,2,45,90,Cash,Saturday
+ORD00523,2026-08-22,11:30,Masala Dosa,Meals,2,95,190,Cash,Saturday
+ORD01175,2026-08-22,12:55,Chai,Beverages,1,15,15,UPI,Saturday
+ORD00293,2026-08-22,14:40,Cheese Maggi,Fast Food,2,65,130,Cash,Saturday
+ORD00761,2026-08-22,16:25,Cold Drink,Beverages,2,25,50,Cash,Saturday
+ORD00215,2026-08-23,09:35,Veg Thali,Meals,1,90,90,Cash,Sunday
+ORD00013,2026-08-23,10:10,Paneer Momos,Snacks,1,80,80,UPI,Sunday
+ORD00343,2026-08-23,10:20,Samosa,Snacks,1,20,20,Cash,Sunday
+ORD01002,2026-08-23,10:35,Veg Sandwich,Snacks,3,45,135,UPI,Sunday
+ORD00502,2026-08-23,10:55,Veg Momos,Snacks,1,40,40,UPI,Sunday
+ORD01289,2026-08-23,11:25,Chai,Beverages,1,20,20,UPI,Sunday
+ORD00726,2026-08-23,14:55,Samosa,Snacks,2,15,30,UPI,Sunday
+ORD01012,2026-08-23,14:55,Cold Coffee,Beverages,1,50,50,UPI,Sunday
+ORD00365,2026-08-23,15:50,Idli Sambhar,Meals,2,55,110,Cash,Sunday
+ORD00540,2026-08-23,16:15,Chai,Beverages,2,10,20,Cash,Sunday
+ORD01405,2026-08-23,17:35,Cold Coffee,Beverages,2,50,100,UPI,Sunday
+ORD00952,2026-08-24,09:10,Chole Kulche,Meals,2,80,160,Cash,Monday
+ORD01456,2026-08-24,10:25,Cold Coffee,Beverages,1,80,80,Cash,Monday
+ORD00052,2026-08-24,12:15,Veg Momos,Snacks,1,45,45,UPI,Monday
+ORD01250,2026-08-24,12:20,Cold Coffee,Beverages,1,65,65,UPI,Monday
+ORD00006,2026-08-24,14:30,Bread Pakora,Snacks,2,25,50,UPI,Monday
+ORD01034,2026-08-24,15:50,Brownie,Desserts,2,60,120,UPI,Monday
+ORD00030,2026-08-25,11:05,Cheese Maggi,Fast Food,1,75,75,Cash,Tuesday
+ORD01181,2026-08-25,12:55,Masala Maggi,Fast Food,1,45,45,UPI,Tuesday
+ORD01496,2026-08-25,14:30,Chai,Beverages,1,15,15,UPI,Tuesday
+ORD01465,2026-08-25,17:55,Veg Sandwich,Snacks,2,35,70,UPI,Tuesday
+ORD00348,2026-08-25,18:15,Cheese Maggi,Fast Food,2,65,130,UPI,Tuesday
+ORD01038,2026-08-26,10:30,Samosa,Snacks,2,15,30,Cash,Wednesday
+ORD00974,2026-08-26,14:30,Masala Maggi,Fast Food,1,40,40,UPI,Wednesday
+ORD00089,2026-08-26,14:50,Masala Maggi,Fast Food,1,40,40,UPI,Wednesday
+ORD01394,2026-08-27,10:10,Chai,Beverages,2,15,30,UPI,Thursday
+ORD00950,2026-08-27,11:50,Veg Chowmein,Fast Food,1,70,70,UPI,Thursday
+ORD01117,2026-08-27,14:40,Chai,Beverages,1,20,20,UPI,Thursday
+ORD00723,2026-08-27,15:00,Bread Pakora,Snacks,1,30,30,Cash,Thursday
+ORD00791,2026-08-28,10:20,Masala Dosa,Meals,2,105,210,UPI,Friday
+ORD01046,2026-08-28,10:20,Chai,Beverages,3,15,45,Cash,Friday
+ORD01206,2026-08-28,12:55,Veg Momos,Snacks,1,55,55,UPI,Friday
+ORD01011,2026-08-28,13:35,Samosa,Snacks,3,20,60,UPI,Friday
+ORD00016,2026-08-28,14:40,Cold Coffee,Beverages,1,50,50,UPI,Friday
+ORD00836,2026-08-28,15:05,Aloo Paratha,Meals,2,50,100,Cash,Friday
+ORD00218,2026-08-29,09:30,Ice Cream,Desserts,2,40,80,UPI,Saturday
+ORD00105,2026-08-29,11:15,Veg Burger,Fast Food,1,60,60,Cash,Saturday
+ORD00213,2026-08-29,13:00,Mineral Water,Beverages,1,15,15,UPI,Saturday
+ORD00315,2026-08-29,16:25,Mineral Water,Beverages,1,20,20,Cash,Saturday
+ORD01148,2026-08-29,16:45,Bread Pakora,Snacks,1,30,30,Cash,Saturday
+ORD00720,2026-08-30,08:15,Chai,Beverages,1,10,10,UPI,Sunday
+ORD00869,2026-08-30,15:00,Lemon Soda,Beverages,1,30,30,UPI,Sunday
+ORD00289,2026-08-30,16:50,Coffee,Beverages,1,25,25,Cash,Sunday
+ORD00605,2026-08-30,17:10,Veg Momos,Snacks,1,55,55,Cash,Sunday
+ORD00167,2026-08-31,09:05,Bread Pakora,Snacks,2,20,40,UPI,Monday
+ORD01150,2026-08-31,11:30,Aloo Paratha,Meals,1,60,60,UPI,Monday
+ORD00827,2026-08-31,11:40,Cold Coffee,Beverages,1,50,50,Cash,Monday
+ORD00259,2026-08-31,14:10,Aloo Paratha,Meals,1,60,60,Card,Monday
+ORD00772,2026-08-31,16:50,Veg Sandwich,Snacks,1,40,40,Cash,Monday
+ORD01172,2026-09-01,10:45,Cold Drink,Beverages,1,30,30,Cash,Tuesday
+ORD00634,2026-09-01,12:15,Mineral Water,Beverages,1,20,20,Cash,Tuesday
+ORD00826,2026-09-01,12:55,Cold Drink,Beverages,1,30,30,Cash,Tuesday
+ORD00069,2026-09-01,13:15,Cold Coffee,Beverages,2,60,120,UPI,Tuesday
+ORD00713,2026-09-01,14:00,Chole Kulche,Meals,1,60,60,UPI,Tuesday
+ORD00276,2026-09-01,14:15,Chai,Beverages,1,15,15,Cash,Tuesday
+ORD00064,2026-09-01,15:05,Cheese Maggi,Fast Food,1,75,75,Cash,Tuesday
+ORD01135,2026-09-01,15:35,Veg Thali,Meals,2,115,230,UPI,Tuesday
+ORD00648,2026-09-01,16:05,Cheese Maggi,Fast Food,1,65,65,UPI,Tuesday
+ORD01082,2026-09-01,16:45,Veg Sandwich,Snacks,1,40,40,UPI,Tuesday
+ORD00738,2026-09-02,10:45,Veg Chowmein,Fast Food,1,75,75,Cash,Wednesday
+ORD01027,2026-09-02,12:10,Masala Dosa,Meals,2,90,180,UPI,Wednesday
+ORD01380,2026-09-02,15:00,Veg Burger,Fast Food,1,55,55,UPI,Wednesday
+ORD01356,2026-09-02,16:05,Chole Kulche,Meals,1,75,75,UPI,Wednesday
+ORD01474,2026-09-02,16:55,Paneer Momos,Snacks,1,70,70,UPI,Wednesday
+ORD00435,2026-09-03,09:20,Masala Maggi,Fast Food,1,55,55,Cash,Thursday
+ORD00462,2026-09-03,11:00,Veg Momos,Snacks,3,50,150,UPI,Thursday
+ORD00239,2026-09-03,14:30,Coffee,Beverages,1,20,20,UPI,Thursday
+ORD00601,2026-09-03,14:45,Cheese Sandwich,Snacks,1,65,65,UPI,Thursday
+ORD00903,2026-09-03,17:10,Masala Dosa,Meals,1,80,80,UPI,Thursday
+ORD01197,2026-09-04,09:00,Aloo Paratha,Meals,1,60,60,UPI,Friday
+ORD00529,2026-09-04,12:50,Plain Dosa,Meals,2,65,130,UPI,Friday
+ORD01138,2026-09-04,16:25,Coffee,Beverages,1,35,35,UPI,Friday
+ORD00208,2026-09-04,17:40,Cold Drink,Beverages,1,25,25,Cash,Friday
+ORD01096,2026-09-05,09:50,Paneer Momos,Snacks,1,60,60,Cash,Saturday
+ORD00707,2026-09-05,11:55,Idli Sambhar,Meals,1,45,45,Cash,Saturday
+ORD00322,2026-09-05,15:00,Samosa,Snacks,1,25,25,Cash,Saturday
+ORD00721,2026-09-05,15:10,Idli Sambhar,Meals,1,70,70,Cash,Saturday
+ORD00342,2026-09-05,16:25,Paneer Momos,Snacks,2,65,130,UPI,Saturday
+ORD00525,2026-09-05,16:50,Cheese Maggi,Fast Food,1,75,75,UPI,Saturday
+ORD00437,2026-09-06,12:45,Veg Chowmein,Fast Food,1,65,65,UPI,Sunday
+ORD00976,2026-09-06,16:00,Cold Coffee,Beverages,1,50,50,UPI,Sunday
+ORD01301,2026-09-07,09:00,Aloo Paratha,Meals,1,50,50,UPI,Monday
+ORD01389,2026-09-07,09:20,Masala Maggi,Fast Food,2,60,120,UPI,Monday
+ORD00567,2026-09-07,09:50,Veg Momos,Snacks,1,60,60,UPI,Monday
+ORD01042,2026-09-07,11:00,Veg Fried Rice,Meals,1,85,85,UPI,Monday
+ORD00090,2026-09-07,11:20,Cheese Burger,Fast Food,1,90,90,UPI,Monday
+ORD00586,2026-09-07,14:10,Plain Dosa,Meals,2,60,120,Cash,Monday
+ORD00178,2026-09-07,14:20,Samosa,Snacks,3,20,60,UPI,Monday
+ORD00809,2026-09-07,15:10,Bread Pakora,Snacks,2,30,60,Cash,Monday
+ORD00044,2026-09-08,11:00,Bread Pakora,Snacks,2,25,50,UPI,Tuesday
+ORD01263,2026-09-08,12:45,Cold Drink,Beverages,2,40,80,Card,Tuesday
+ORD00947,2026-09-08,14:50,Cold Drink,Beverages,1,25,25,UPI,Tuesday
+ORD00261,2026-09-08,15:20,Veg Chowmein,Fast Food,1,50,50,Cash,Tuesday
+ORD01265,2026-09-08,15:40,Veg Momos,Snacks,1,60,60,UPI,Tuesday
+ORD00123,2026-09-08,17:35,Veg Fried Rice,Meals,1,80,80,Cash,Tuesday
+ORD00318,2026-09-08,18:50,Chai,Beverages,1,15,15,Cash,Tuesday
+ORD00099,2026-09-09,10:00,Chole Kulche,Meals,1,65,65,UPI,Wednesday
+ORD00739,2026-09-09,14:10,Veg Momos,Snacks,1,40,40,Card,Wednesday
+ORD00942,2026-09-09,15:30,Cheese Maggi,Fast Food,1,55,55,UPI,Wednesday
+ORD00954,2026-09-09,15:50,Veg Fried Rice,Meals,1,85,85,Cash,Wednesday
+ORD00693,2026-09-09,17:05,Veg Chowmein,Fast Food,1,75,75,UPI,Wednesday
+ORD00346,2026-09-09,18:15,Veg Burger,Fast Food,2,60,120,UPI,Wednesday
+ORD00665,2026-09-09,18:35,Veg Burger,Fast Food,1,80,80,UPI,Wednesday
+ORD00673,2026-09-10,11:30,Veg Burger,Fast Food,1,80,80,UPI,Thursday
+ORD00109,2026-09-10,13:45,Samosa,Snacks,2,20,40,UPI,Thursday
+ORD00443,2026-09-10,14:10,Veg Chowmein,Fast Food,1,50,50,UPI,Thursday
+ORD01446,2026-09-10,14:20,Masala Maggi,Fast Food,1,40,40,UPI,Thursday
+ORD00637,2026-09-10,15:40,Brownie,Desserts,1,55,55,UPI,Thursday
+ORD00916,2026-09-10,18:05,Veg Thali,Meals,1,115,115,UPI,Thursday
+ORD00999,2026-09-11,10:55,Veg Momos,Snacks,1,50,50,UPI,Friday
+ORD00065,2026-09-11,13:10,Plain Dosa,Meals,2,60,120,Cash,Friday
+ORD00623,2026-09-11,13:15,Cold Coffee,Beverages,1,80,80,UPI,Friday
+ORD00254,2026-09-11,15:50,Masala Dosa,Meals,1,90,90,Cash,Friday
+ORD00253,2026-09-12,08:30,Veg Chowmein,Fast Food,1,55,55,UPI,Saturday
+ORD00433,2026-09-12,09:50,Masala Maggi,Fast Food,1,50,50,UPI,Saturday
+ORD00890,2026-09-12,10:15,Veg Fried Rice,Meals,1,95,95,Cash,Saturday
+ORD00841,2026-09-12,10:50,Samosa,Snacks,1,15,15,Cash,Saturday
+ORD00864,2026-09-12,11:50,Cold Drink,Beverages,1,25,25,UPI,Saturday
+ORD00225,2026-09-12,12:40,French Fries,Snacks,2,50,100,UPI,Saturday
+ORD00180,2026-09-12,16:10,Veg Sandwich,Snacks,1,40,40,Cash,Saturday
+ORD00542,2026-09-13,08:55,Samosa,Snacks,2,20,40,UPI,Sunday
+ORD00399,2026-09-13,15:05,Veg Fried Rice,Meals,3,70,210,UPI,Sunday
+ORD00900,2026-09-13,16:35,Cold Drink,Beverages,1,30,30,Card,Sunday
+ORD01487,2026-09-13,17:10,Cheese Maggi,Fast Food,1,60,60,UPI,Sunday
+ORD01098,2026-09-14,11:10,Masala Maggi,Fast Food,2,45,90,UPI,Monday
+ORD01382,2026-09-14,14:55,Aloo Paratha,Meals,2,60,120,UPI,Monday
+ORD01030,2026-09-15,08:55,Plain Dosa,Meals,2,65,130,Cash,Tuesday
+ORD01369,2026-09-15,10:30,Coffee,Beverages,1,35,35,Cash,Tuesday
+ORD00207,2026-09-15,14:10,Coffee,Beverages,2,25,50,UPI,Tuesday
+ORD00820,2026-09-16,09:20,French Fries,Snacks,1,70,70,Cash,Wednesday
+ORD00876,2026-09-16,09:40,Masala Maggi,Fast Food,1,40,40,UPI,Wednesday
+ORD00562,2026-09-16,10:40,Veg Fried Rice,Meals,1,70,70,Cash,Wednesday
+ORD01095,2026-09-16,12:05,French Fries,Snacks,1,60,60,UPI,Wednesday
+ORD00281,2026-09-16,14:15,Coffee,Beverages,1,30,30,UPI,Wednesday
+ORD00608,2026-09-16,15:10,Aloo Paratha,Meals,1,45,45,UPI,Wednesday
+ORD00370,2026-09-16,15:30,Masala Dosa,Meals,1,95,95,UPI,Wednesday
+ORD00936,2026-09-16,16:35,Masala Maggi,Fast Food,1,60,60,Cash,Wednesday
+ORD00955,2026-09-17,09:20,Veg Chowmein,Fast Food,1,65,65,UPI,Thursday
+ORD00990,2026-09-17,09:30,Veg Thali,Meals,2,130,260,UPI,Thursday
+ORD01045,2026-09-17,11:50,Cheese Burger,Fast Food,2,90,180,Cash,Thursday
+ORD00402,2026-09-17,11:55,Veg Chowmein,Fast Food,1,65,65,UPI,Thursday
+ORD01069,2026-09-17,12:00,Chai,Beverages,1,10,10,UPI,Thursday
+ORD00687,2026-09-17,12:10,Lemon Soda,Beverages,2,35,70,UPI,Thursday
+ORD00019,2026-09-17,15:10,Masala Maggi,Fast Food,1,45,45,Cash,Thursday
+ORD00351,2026-09-17,17:55,Masala Maggi,Fast Food,2,40,80,UPI,Thursday
+ORD00411,2026-09-18,08:00,Paneer Momos,Snacks,1,75,75,Card,Friday
+ORD00237,2026-09-18,11:15,Chai,Beverages,2,10,20,UPI,Friday
+ORD01293,2026-09-18,17:10,Veg Chowmein,Fast Food,1,70,70,Cash,Friday
+ORD00804,2026-09-19,13:10,Cold Coffee,Beverages,1,50,50,UPI,Saturday
+ORD00624,2026-09-19,14:15,Aloo Paratha,Meals,1,40,40,Card,Saturday
+ORD00651,2026-09-19,14:55,Cheese Maggi,Fast Food,1,55,55,Cash,Saturday
+ORD00490,2026-09-19,18:25,Chole Kulche,Meals,1,70,70,UPI,Saturday
+ORD00579,2026-09-20,10:10,Veg Momos,Snacks,1,50,50,Cash,Sunday
+ORD00546,2026-09-20,12:55,Chole Kulche,Meals,1,60,60,Cash,Sunday
+ORD01331,2026-09-20,13:55,Chai,Beverages,1,15,15,Cash,Sunday
+ORD00160,2026-09-20,15:35,Veg Chowmein,Fast Food,1,70,70,Cash,Sunday
+ORD01436,2026-09-20,18:15,Paneer Momos,Snacks,1,65,65,UPI,Sunday
+ORD00629,2026-09-20,18:40,Coffee,Beverages,1,30,30,UPI,Sunday
+ORD00558,2026-09-21,10:00,Masala Maggi,Fast Food,1,60,60,UPI,Monday
+ORD00115,2026-09-21,16:00,Plain Dosa,Meals,1,80,80,UPI,Monday
+ORD00598,2026-09-22,13:25,Veg Chowmein,Fast Food,2,65,130,UPI,Tuesday
+ORD00993,2026-09-22,15:50,Chai,Beverages,1,20,20,Cash,Tuesday
+ORD00747,2026-09-22,17:35,Coffee,Beverages,1,35,35,UPI,Tuesday
+ORD00116,2026-09-23,12:35,Aloo Paratha,Meals,1,40,40,UPI,Wednesday
+ORD00233,2026-09-23,12:40,Veg Sandwich,Snacks,1,45,45,UPI,Wednesday
+ORD00304,2026-09-24,11:20,French Fries,Snacks,3,70,210,Cash,Thursday
+ORD00514,2026-09-24,11:45,Idli Sambhar,Meals,2,60,120,UPI,Thursday
+ORD00161,2026-09-24,12:50,Brownie,Desserts,4,40,160,Cash,Thursday
+ORD00774,2026-09-24,12:55,Masala Dosa,Meals,1,100,100,UPI,Thursday
+ORD00596,2026-09-24,15:20,Cold Coffee,Beverages,1,60,60,UPI,Thursday
+ORD00508,2026-09-24,15:25,Cheese Maggi,Fast Food,1,60,60,Cash,Thursday
+ORD01122,2026-09-24,16:05,Chai,Beverages,1,20,20,UPI,Thursday
+ORD00038,2026-09-25,12:20,Veg Momos,Snacks,1,50,50,UPI,Friday
+ORD00407,2026-09-25,14:55,French Fries,Snacks,1,60,60,Cash,Friday
+ORD00927,2026-09-25,16:25,Cheese Sandwich,Snacks,1,60,60,Cash,Friday
+ORD00087,2026-09-25,18:20,Aloo Paratha,Meals,2,60,120,UPI,Friday
+ORD00516,2026-09-25,18:25,Idli Sambhar,Meals,1,55,55,UPI,Friday
+ORD00409,2026-09-26,09:55,Ice Cream,Desserts,1,30,30,UPI,Saturday
+ORD00715,2026-09-26,11:05,French Fries,Snacks,1,65,65,UPI,Saturday
+ORD00979,2026-09-26,11:05,Paneer Momos,Snacks,2,60,120,Cash,Saturday
+ORD00751,2026-09-26,15:55,Chai,Beverages,1,20,20,UPI,Saturday
+ORD00481,2026-09-26,17:00,Veg Momos,Snacks,2,45,90,UPI,Saturday
+ORD01297,2026-09-26,17:10,Bread Pakora,Snacks,1,20,20,UPI,Saturday
+ORD00733,2026-09-26,17:30,Ice Cream,Desserts,1,35,35,UPI,Saturday
+ORD00436,2026-09-27,11:40,Chai,Beverages,2,15,30,UPI,Sunday
+ORD01074,2026-09-27,13:40,Veg Fried Rice,Meals,2,85,170,Cash,Sunday
+ORD00290,2026-09-27,13:55,Masala Maggi,Fast Food,1,60,60,Cash,Sunday
+ORD01014,2026-09-27,16:10,Masala Maggi,Fast Food,1,40,40,UPI,Sunday
+ORD00925,2026-09-27,16:55,Chole Kulche,Meals,2,80,160,Cash,Sunday
+ORD00214,2026-09-28,13:20,Paneer Momos,Snacks,1,60,60,UPI,Monday
+ORD01296,2026-09-28,15:00,Aloo Paratha,Meals,1,45,45,Cash,Monday
+ORD01367,2026-09-28,15:20,Veg Chowmein,Fast Food,1,75,75,Cash,Monday
+ORD00364,2026-09-28,18:25,Veg Thali,Meals,1,120,120,UPI,Monday
+ORD00881,2026-09-29,09:30,Chai,Beverages,3,20,60,UPI,Tuesday
+ORD00274,2026-09-29,11:15,Samosa,Snacks,1,20,20,UPI,Tuesday
+ORD01441,2026-09-29,12:00,Veg Sandwich,Snacks,1,45,45,UPI,Tuesday
+ORD00164,2026-09-29,12:40,Aloo Paratha,Meals,2,40,80,UPI,Tuesday
+ORD00966,2026-09-29,14:15,Cheese Burger,Fast Food,1,70,70,UPI,Tuesday
+ORD00020,2026-09-29,17:45,Veg Burger,Fast Food,1,50,50,UPI,Tuesday
+ORD01186,2026-09-30,11:55,Samosa,Snacks,2,25,50,Cash,Wednesday
+ORD01359,2026-09-30,14:15,Masala Maggi,Fast Food,1,60,60,UPI,Wednesday
+ORD01221,2026-09-30,15:30,Veg Thali,Meals,2,120,240,Card,Wednesday
+ORD01294,2026-09-30,15:30,Samosa,Snacks,2,15,30,Cash,Wednesday
+ORD01115,2026-09-30,15:50,Chole Kulche,Meals,1,65,65,UPI,Wednesday
+ORD00022,2026-09-30,16:10,Plain Dosa,Meals,1,80,80,UPI,Wednesday
+ORD00970,2026-09-30,16:30,Cold Drink,Beverages,1,25,25,UPI,Wednesday
+ORD01329,2026-09-30,17:05,Cheese Sandwich,Snacks,1,70,70,Cash,Wednesday
+ORD00888,2026-09-30,17:35,Aloo Paratha,Meals,1,40,40,Cash,Wednesday
+ORD00098,2026-10-01,10:00,Ice Cream,Desserts,1,50,50,Card,Thursday
+ORD00790,2026-10-01,10:35,Chole Kulche,Meals,2,50,100,Cash,Thursday
+ORD01334,2026-10-01,10:50,Cheese Burger,Fast Food,3,90,270,UPI,Thursday
+ORD00505,2026-10-01,11:25,Cold Drink,Beverages,2,35,70,UPI,Thursday
+ORD00129,2026-10-01,12:25,Aloo Paratha,Meals,2,55,110,UPI,Thursday
+ORD00383,2026-10-01,13:30,Coffee,Beverages,1,35,35,Cash,Thursday
+ORD01102,2026-10-01,14:20,Bread Pakora,Snacks,1,30,30,UPI,Thursday
+ORD01243,2026-10-01,15:35,Bread Pakora,Snacks,1,30,30,UPI,Thursday
+ORD00816,2026-10-01,16:35,Cheese Maggi,Fast Food,1,70,70,UPI,Thursday
+ORD00851,2026-10-02,10:45,Paneer Momos,Snacks,1,60,60,UPI,Friday
+ORD00363,2026-10-02,11:25,Veg Momos,Snacks,1,40,40,Cash,Friday
+ORD00054,2026-10-02,12:00,Veg Sandwich,Snacks,1,45,45,Card,Friday
+ORD00403,2026-10-02,14:10,French Fries,Snacks,1,60,60,Card,Friday
+ORD00352,2026-10-02,15:05,Veg Sandwich,Snacks,1,40,40,UPI,Friday
+ORD01402,2026-10-02,15:10,Brownie,Desserts,1,55,55,Cash,Friday
+ORD00017,2026-10-02,16:50,Cheese Burger,Fast Food,1,80,80,UPI,Friday
+ORD00773,2026-10-02,17:35,Chai,Beverages,2,15,30,UPI,Friday
+ORD00323,2026-10-02,18:00,Veg Chowmein,Fast Food,1,75,75,Cash,Friday
+ORD01107,2026-10-03,10:50,Plain Dosa,Meals,1,80,80,Cash,Saturday
+ORD01178,2026-10-03,11:05,Idli Sambhar,Meals,2,70,140,UPI,Saturday
+ORD00372,2026-10-03,11:35,Chole Kulche,Meals,2,80,160,UPI,Saturday
+ORD01268,2026-10-03,11:55,Samosa,Snacks,2,25,50,UPI,Saturday
+ORD00578,2026-10-03,14:05,Veg Burger,Fast Food,2,75,150,UPI,Saturday
+ORD00307,2026-10-03,14:15,Veg Burger,Fast Food,1,75,75,UPI,Saturday
+ORD00568,2026-10-03,14:50,Bread Pakora,Snacks,1,30,30,Cash,Saturday
+ORD01337,2026-10-03,15:45,Veg Sandwich,Snacks,3,50,150,Cash,Saturday
+ORD01203,2026-10-04,09:50,Ice Cream,Desserts,1,35,35,UPI,Sunday
+ORD00297,2026-10-04,10:25,Veg Sandwich,Snacks,1,50,50,UPI,Sunday
+ORD00302,2026-10-04,11:00,Veg Sandwich,Snacks,1,45,45,UPI,Sunday
+ORD00460,2026-10-04,11:20,Veg Burger,Fast Food,1,50,50,Cash,Sunday
+ORD00151,2026-10-04,13:55,Chai,Beverages,1,15,15,UPI,Sunday
+ORD00951,2026-10-04,14:00,Ice Cream,Desserts,1,30,30,UPI,Sunday
+ORD00031,2026-10-04,16:05,Cold Drink,Beverages,1,30,30,UPI,Sunday
+ORD00610,2026-10-04,16:50,Plain Dosa,Meals,1,80,80,Cash,Sunday
+ORD01375,2026-10-05,10:15,Veg Thali,Meals,1,110,110,UPI,Monday
+ORD00786,2026-10-05,12:25,French Fries,Snacks,2,75,150,UPI,Monday
+ORD00418,2026-10-05,12:55,Lemon Soda,Beverages,1,35,35,Cash,Monday
+ORD01410,2026-10-05,13:25,Veg Sandwich,Snacks,1,40,40,UPI,Monday
+ORD00466,2026-10-05,13:45,Veg Momos,Snacks,2,40,80,Cash,Monday
+ORD01348,2026-10-06,10:00,Veg Sandwich,Snacks,1,45,45,Cash,Tuesday
+ORD01273,2026-10-06,11:50,Samosa,Snacks,1,20,20,Card,Tuesday
+ORD01432,2026-10-07,08:40,Chai,Beverages,1,10,10,UPI,Wednesday
+ORD00002,2026-10-07,10:30,Samosa,Snacks,1,15,15,UPI,Wednesday
+ORD01479,2026-10-07,11:35,French Fries,Snacks,1,65,65,UPI,Wednesday
+ORD00455,2026-10-07,12:35,Chai,Beverages,1,20,20,Cash,Wednesday
+ORD00513,2026-10-08,11:55,Cheese Sandwich,Snacks,1,50,50,Cash,Thursday
+ORD01257,2026-10-08,12:10,Veg Burger,Fast Food,1,80,80,Cash,Thursday
+ORD01282,2026-10-08,13:25,Aloo Paratha,Meals,2,50,100,Cash,Thursday
+ORD00060,2026-10-08,16:20,French Fries,Snacks,2,65,130,UPI,Thursday
+ORD00534,2026-10-09,08:05,Chai,Beverages,1,20,20,Cash,Friday
+ORD00114,2026-10-09,09:05,Veg Burger,Fast Food,1,60,60,Cash,Friday
+ORD01335,2026-10-09,11:10,Masala Maggi,Fast Food,1,60,60,Card,Friday
+ORD00429,2026-10-09,11:35,Veg Sandwich,Snacks,1,40,40,UPI,Friday
+ORD01332,2026-10-10,10:15,Samosa,Snacks,1,15,15,Card,Saturday
+ORD00689,2026-10-10,10:20,Veg Burger,Fast Food,1,75,75,Cash,Saturday
+ORD01338,2026-10-10,11:35,Veg Momos,Snacks,1,50,50,Cash,Saturday
+ORD00484,2026-10-10,12:10,Cold Coffee,Beverages,2,60,120,UPI,Saturday
+ORD00985,2026-10-10,12:50,Brownie,Desserts,2,50,100,UPI,Saturday
+ORD00165,2026-10-10,15:15,Masala Maggi,Fast Food,1,45,45,UPI,Saturday
+ORD01321,2026-10-10,16:10,Veg Burger,Fast Food,2,75,150,UPI,Saturday
+ORD01161,2026-10-10,16:55,Coffee,Beverages,2,30,60,UPI,Saturday
+ORD00857,2026-10-11,10:15,Cold Drink,Beverages,1,25,25,Cash,Sunday
+ORD01179,2026-10-11,10:25,Bread Pakora,Snacks,1,20,20,UPI,Sunday
+ORD00686,2026-10-11,10:40,Cheese Sandwich,Snacks,2,60,120,UPI,Sunday
+ORD01168,2026-10-11,11:55,Veg Thali,Meals,1,90,90,Card,Sunday
+ORD00042,2026-10-11,12:50,Veg Sandwich,Snacks,1,40,40,Cash,Sunday
+ORD00238,2026-10-11,14:35,Coffee,Beverages,1,25,25,UPI,Sunday
+ORD01411,2026-10-11,15:40,Cheese Maggi,Fast Food,2,65,130,UPI,Sunday
+ORD01063,2026-10-11,17:55,Chai,Beverages,1,15,15,UPI,Sunday
+ORD00171,2026-10-12,12:20,Chole Kulche,Meals,1,80,80,UPI,Monday
+ORD01103,2026-10-12,18:30,Veg Momos,Snacks,3,60,180,UPI,Monday
+ORD00172,2026-10-13,09:50,Coffee,Beverages,1,30,30,UPI,Tuesday
+ORD01052,2026-10-13,11:10,Cold Coffee,Beverages,1,80,80,Cash,Tuesday
+ORD00697,2026-10-13,13:05,Chai,Beverages,1,20,20,UPI,Tuesday
+ORD01361,2026-10-13,14:10,Cold Drink,Beverages,2,25,50,UPI,Tuesday
+ORD00338,2026-10-13,14:30,Veg Sandwich,Snacks,1,35,35,UPI,Tuesday
+ORD01459,2026-10-13,16:15,Plain Dosa,Meals,2,85,170,Cash,Tuesday
+ORD00683,2026-10-13,16:25,Coffee,Beverages,2,35,70,UPI,Tuesday
+ORD00877,2026-10-13,16:55,Chai,Beverages,1,10,10,UPI,Tuesday
+ORD00649,2026-10-13,17:20,Cheese Burger,Fast Food,1,85,85,Cash,Tuesday
+ORD00311,2026-10-14,11:15,Cold Coffee,Beverages,1,60,60,Cash,Wednesday
+ORD00805,2026-10-14,16:25,Veg Sandwich,Snacks,2,45,90,UPI,Wednesday
+ORD00340,2026-10-14,17:15,Chole Kulche,Meals,1,55,55,UPI,Wednesday
+ORD01326,2026-10-14,18:25,Cheese Maggi,Fast Food,2,55,110,UPI,Wednesday
+ORD01392,2026-10-15,08:05,Veg Burger,Fast Food,1,55,55,Cash,Thursday
+ORD01491,2026-10-15,10:05,Chai,Beverages,4,10,40,UPI,Thursday
+ORD01272,2026-10-15,11:00,Bread Pakora,Snacks,1,20,20,UPI,Thursday
+ORD00535,2026-10-15,11:50,Cheese Maggi,Fast Food,1,65,65,UPI,Thursday
+ORD00148,2026-10-15,12:45,Veg Momos,Snacks,1,40,40,UPI,Thursday
+ORD00553,2026-10-15,17:55,Plain Dosa,Meals,1,75,75,Cash,Thursday
+ORD00245,2026-10-16,09:00,Bread Pakora,Snacks,2,30,60,UPI,Friday
+ORD00331,2026-10-16,11:30,Masala Dosa,Meals,1,100,100,Cash,Friday
+ORD00662,2026-10-16,13:50,Aloo Paratha,Meals,2,50,100,UPI,Friday
+ORD01113,2026-10-17,15:45,Chole Kulche,Meals,1,50,50,UPI,Saturday
+ORD00410,2026-10-18,11:10,French Fries,Snacks,2,50,100,UPI,Sunday
+ORD00329,2026-10-18,14:00,Cold Drink,Beverages,2,35,70,UPI,Sunday
+ORD01431,2026-10-18,15:00,Veg Sandwich,Snacks,4,45,180,UPI,Sunday
+ORD00871,2026-10-19,09:10,Veg Sandwich,Snacks,1,50,50,UPI,Monday
+ORD00934,2026-10-19,09:45,Chai,Beverages,1,20,20,UPI,Monday
+ORD01177,2026-10-19,10:55,Cold Drink,Beverages,2,30,60,UPI,Monday
+ORD01195,2026-10-19,11:05,Veg Thali,Meals,1,120,120,Card,Monday
+ORD00037,2026-10-19,11:45,Samosa,Snacks,1,15,15,UPI,Monday
+ORD00400,2026-10-19,13:40,Masala Dosa,Meals,1,110,110,Card,Monday
+ORD01087,2026-10-19,14:35,Veg Chowmein,Fast Food,1,50,50,Card,Monday
+ORD01114,2026-10-19,16:40,Chai,Beverages,1,15,15,Cash,Monday
+ORD00644,2026-10-20,10:45,Masala Dosa,Meals,1,110,110,UPI,Tuesday
+ORD01078,2026-10-20,11:40,Cheese Sandwich,Snacks,1,60,60,UPI,Tuesday
+ORD00027,2026-10-20,14:15,Chai,Beverages,1,15,15,UPI,Tuesday
+ORD01370,2026-10-20,14:55,Veg Momos,Snacks,1,45,45,UPI,Tuesday
+ORD00743,2026-10-20,15:40,Plain Dosa,Meals,2,85,170,UPI,Tuesday
+ORD00764,2026-10-20,15:50,Veg Fried Rice,Meals,1,70,70,Cash,Tuesday
+ORD00731,2026-10-21,10:20,Mineral Water,Beverages,1,20,20,UPI,Wednesday
+ORD01247,2026-10-21,12:25,Cold Drink,Beverages,1,25,25,UPI,Wednesday
+ORD00450,2026-10-21,12:45,Samosa,Snacks,1,25,25,Cash,Wednesday
+ORD00602,2026-10-21,15:10,Aloo Paratha,Meals,2,40,80,UPI,Wednesday
+ORD00902,2026-10-21,15:45,Chai,Beverages,1,15,15,UPI,Wednesday
+ORD01071,2026-10-21,15:55,Masala Maggi,Fast Food,1,45,45,UPI,Wednesday
+ORD01062,2026-10-22,09:50,Ice Cream,Desserts,3,50,150,UPI,Thursday
+ORD00612,2026-10-22,10:10,French Fries,Snacks,1,80,80,Cash,Thursday
+ORD00712,2026-10-22,14:15,Cheese Maggi,Fast Food,1,70,70,UPI,Thursday
+ORD01244,2026-10-22,16:45,Samosa,Snacks,1,20,20,Cash,Thursday
+ORD00638,2026-10-22,17:35,Veg Momos,Snacks,1,60,60,UPI,Thursday
+ORD00639,2026-10-23,10:40,Coffee,Beverages,2,35,70,UPI,Friday
+ORD00056,2026-10-23,11:00,Idli Sambhar,Meals,1,45,45,Cash,Friday
+ORD00708,2026-10-23,12:00,Cold Drink,Beverages,1,35,35,Cash,Friday
+ORD00802,2026-10-23,13:15,Masala Dosa,Meals,1,90,90,Cash,Friday
+ORD00170,2026-10-23,14:10,Plain Dosa,Meals,2,65,130,UPI,Friday
+ORD00303,2026-10-23,15:50,Coffee,Beverages,1,25,25,UPI,Friday
+ORD01482,2026-10-23,16:30,Cheese Burger,Fast Food,1,95,95,Card,Friday
+ORD01089,2026-10-24,13:40,Aloo Paratha,Meals,1,55,55,Card,Saturday
+ORD00188,2026-10-24,13:45,Plain Dosa,Meals,1,80,80,UPI,Saturday
+ORD01041,2026-10-24,15:40,Ice Cream,Desserts,1,30,30,UPI,Saturday
+ORD00263,2026-10-24,15:55,Samosa,Snacks,1,20,20,UPI,Saturday
+ORD01427,2026-10-24,17:05,Cheese Maggi,Fast Food,1,75,75,UPI,Saturday
+ORD00382,2026-10-25,08:55,Bread Pakora,Snacks,1,25,25,Cash,Sunday
+ORD01414,2026-10-25,16:50,Veg Burger,Fast Food,1,65,65,UPI,Sunday
+ORD00801,2026-10-25,17:50,Coffee,Beverages,1,25,25,UPI,Sunday
+ORD00500,2026-10-25,18:05,Veg Chowmein,Fast Food,1,55,55,UPI,Sunday
+ORD00879,2026-10-26,08:35,Cheese Maggi,Fast Food,2,60,120,UPI,Monday
+ORD00957,2026-10-26,09:50,Cheese Burger,Fast Food,1,70,70,Card,Monday
+ORD00014,2026-10-26,13:15,Ice Cream,Desserts,1,35,35,UPI,Monday
+ORD00292,2026-10-26,14:40,Cheese Maggi,Fast Food,1,55,55,UPI,Monday
+ORD00549,2026-10-26,14:50,Idli Sambhar,Meals,2,70,140,Cash,Monday
+ORD00573,2026-10-27,09:05,Cheese Burger,Fast Food,1,90,90,Cash,Tuesday
+ORD00680,2026-10-27,10:15,Samosa,Snacks,1,15,15,Cash,Tuesday
+ORD00583,2026-10-27,10:45,Masala Maggi,Fast Food,3,50,150,UPI,Tuesday
+ORD00913,2026-10-27,12:40,Chai,Beverages,1,10,10,UPI,Tuesday
+ORD00147,2026-10-27,12:50,Cold Drink,Beverages,1,25,25,UPI,Tuesday
+ORD00112,2026-10-27,13:35,Brownie,Desserts,1,55,55,UPI,Tuesday
+ORD01492,2026-10-27,17:20,Veg Momos,Snacks,2,55,110,UPI,Tuesday
+ORD01140,2026-10-27,17:25,Samosa,Snacks,1,15,15,UPI,Tuesday
+ORD00136,2026-10-28,12:30,Masala Dosa,Meals,2,95,190,UPI,Wednesday
+ORD00473,2026-10-28,14:30,Veg Sandwich,Snacks,1,40,40,UPI,Wednesday
+ORD00655,2026-10-28,14:35,Masala Maggi,Fast Food,2,45,90,UPI,Wednesday
+ORD01133,2026-10-28,15:10,Samosa,Snacks,2,25,50,UPI,Wednesday
